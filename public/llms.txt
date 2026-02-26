@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+גלי תכשיטים בעבודת יד יוקרתיים שנוצרים במיוחד בשבילך. כל יצירה משקפת אומנות אישית ותשומת לב לפרטים הקטנים. הזמיני את התכשיט המושלם עכשיו
+
+### אודות
+https://example.com/about
+טניה אביגיל יוצרת תכשיטים בעבודת יד עם אהבה ומסירות מלאה. הכירי את הסיפור, החזון והתשוקה שמניעים כל יצירה אומנותית שאנחנו מעניקות ללקוחותינו
+
+### הזמנות מותאמות
+https://example.com/custom-orders
+הזמיני תכשיטים בעבודת יד לכלות ולאירועים מיוחדים בעיצוב אישי בלעדי. נגשים את החלום שלך למציאות עם תכשיט מותאם שמשקף את הסגנון והאישיות שלך
+
+### צור קשר
+https://example.com/contact
+מוכנה להתחיל את המסע? צרי קשר עכשיו לייעוץ אישי והזמנת תכשיטים בעבודת יד. נשמח להפוך את הרעיון שלך לתכשיט יוקרתי ומרהיב שישמור על זיכרונות לנצח
+
+### Products
+https://example.com/products
+המוצרים שלנו - Shailiro by Tania Avigail
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - Shailiro by Tania Avigail
+
+### Category
+https://example.com/category/:slug
+מוצרים - Shailiro by Tania Avigail
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt

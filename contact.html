@@ -813,12 +813,12 @@
     // Check if background is transparent or rgba with 0 alpha
     const isTransparent = bgColor === 'transparent' || 
                          bgColor === 'rgba(0, 0, 0, 0)' ||
-                         (bgColor.startsWith('rgba') &amp;&amp; bgColor.includes(', 0)'));
+                         (bgColor.startsWith('rgba') && bgColor.includes(', 0)'));
     
     if (isTransparent) {
       // Check for background-image or gradient
       const bgImage = computedStyle.backgroundImage;
-      if (bgImage &amp;&amp; bgImage !== 'none') {
+      if (bgImage && bgImage !== 'none') {
         console.log('[Navbar] Navbar has background image/gradient, using dark text');
         bgColor = 'rgb(240, 240, 240)'; // Assume light background
       } else {
@@ -831,7 +831,7 @@
     
     // Calculate luminance to determine if background is light or dark
     const rgb = bgColor.match(/\d+/g);
-    if (rgb &amp;&amp; rgb.length &gt;= 3) {
+    if (rgb && rgb.length >= 3) {
       const r = parseInt(rgb[0]);
       const g = parseInt(rgb[1]);
       const b = parseInt(rgb[2]);
@@ -967,7 +967,7 @@
       // ONLY apply inline positioning styles on mobile viewport
       // On desktop, the CSS handles hiding these buttons with display: none
       // Inline styles were breaking desktop layout by overriding CSS
-      const isMobileViewport = window.innerWidth &lt;= 768;
+      const isMobileViewport = window.innerWidth <= 768;
       
       if (mobileToggle) {
         // Icon sizing applies to all viewports for consistency
@@ -1158,7 +1158,7 @@
       phoneBtn.addEventListener('click', function() {
         // Get phone number from placeholder in page or use default
         const phoneLinks = document.querySelectorAll('a[href^="tel:"]');
-        const phoneNumber = phoneLinks.length &gt; 0 
+        const phoneNumber = phoneLinks.length > 0 
           ? phoneLinks[0].getAttribute('href').replace('tel:', '')
           : '[business_phone]';
         
@@ -1175,7 +1175,7 @@
     const handleWhatsAppVisibility = function() {
       const whatsappBtn = document.querySelector('.whatsapp-float');
       if (whatsappBtn) {
-        const isDesktop = window.innerWidth &gt;= 769;
+        const isDesktop = window.innerWidth >= 769;
         if (isDesktop) {
           whatsappBtn.style.setProperty('display', 'none', 'important');
           whatsappBtn.style.setProperty('visibility', 'hidden', 'important');
@@ -1207,16 +1207,10 @@
 </script>
   
   <main>
-    <section class="contact-intro-section" data-layout-spec="צור קשר-intro">
-  <div class="contact-intro-container">
-    <div class="contact-intro-content">
-      <h2>צרו קשר</h2>
-      <p>אשמח לשמוע על הרעיונות שלכם ולעזור ליצור תכשיט מושלם עבורכם. בין אם מדובר בתכשיט בעבודת יד לאירוע מיוחד, מתנה לאדם אהוב, או פשוט משהו שמדבר אל הלב – אני כאן כדי להקשיב ולהגשים. שתפו אותי בסגנון שאתם אוהבים, במידות הנדרשות, ובאירוע או הרגע שעבורו התכשיט מיועד. בדרך כלל אחזור אליכם תוך 24 שעות עם הצעות והמלצות מותאמות אישית.</p>
+    <section class="contact-intro-section" data-layout-spec="צור קשר-intro" style="margin-top: -133px !important; padding-top: 133px !important;" id="zappy-section-0">
+  <div class="contact-intro-image-wrapper">
+      
     </div>
-    <div class="contact-intro-image-wrapper">
-      <img data-placeholder="contact-intro-image-1" data-context="A serene, close-up photograph of handmade jewelry pieces (delicate necklaces, rings, bracelets) arranged on a soft, neutral-toned fabric or elegant jewelry display tray. The image should convey artisanal craftsmanship, attention to detail, and a calm, inviting atmosphere. Soft natural lighting, minimal background, focus on the intricate details of the handcrafted jewelry. Suitable for a contact page introduction for a boutique handmade jewelry brand." width="600" height="700" src="/assets/site-contact-intro-image-1.webp" alt="תכשיטים בעבודת יד על רקע בד עדין">
-    </div>
-  </div>
   <div class="contact-intro-divider-wrapper">
     <svg data-no-icon-edit="true" aria-hidden="true" viewBox="0 0 1200 60" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
       <defs>
@@ -1225,7 +1219,7 @@
           <stop offset="100%" style="stop-color:#EEE9E3;stop-"/>
         </linearGradient>
       </defs>
-      <path d="M0,60 L0,0 L1200,60 L1200,60 Z" fill="var(--bg-light)"/>
+      <path d="M0,60 L0,0 L1200,60 L1200,60 Z" fill="#F7F4EF"/>
     </svg>
   </div>
 </section>
@@ -1267,7 +1261,7 @@
   
   <div class="contact-contact-form-divider-wrapper">
     <svg data-no-icon-edit="true" aria-hidden="true" viewBox="0 0 1200 60" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
-      <path d="M0,60 L0,30 Q100,25 200,30 T400,28 Q500,32 600,28 T800,30 Q900,26 1000,30 T1200,28 L1200,60 Z" fill="var(--bg-light)"/>
+      <path d="M0,60 L0,30 Q100,25 200,30 T400,28 Q500,32 600,28 T800,30 Q900,26 1000,30 T1200,28 L1200,60 Z" fill="#F7F4EF"/>
     </svg>
   </div>
 </section>
@@ -1325,7 +1319,7 @@
 
   <div class="contact-contact-details-divider-wrapper">
     <svg data-no-icon-edit="true" aria-hidden="true" viewBox="0 0 1200 60" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
-      <path d="M0,60 L0,30 Q30,28 60,32 T120,29 Q150,33 180,28 T240,31 Q270,27 300,33 T360,29 Q390,32 420,28 T480,31 Q510,29 540,33 T600,28 Q630,32 660,29 T720,33 Q750,28 780,31 T840,29 Q870,33 900,28 T960,32 Q990,29 1020,33 T1080,28 Q1110,32 1140,29 T1200,31 L1200,60 Z" fill="var(--bg-light)"/>
+      <path d="M0,60 L0,30 Q30,28 60,32 T120,29 Q150,33 180,28 T240,31 Q270,27 300,33 T360,29 Q390,32 420,28 T480,31 Q510,29 540,33 T600,28 Q630,32 660,29 T720,33 Q750,28 780,31 T840,29 Q870,33 900,28 T960,32 Q990,29 1020,33 T1080,28 Q1110,32 1140,29 T1200,31 L1200,60 Z" fill="var(--bg-dark)"/>
     </svg>
   </div>
 </section>

@@ -4,53 +4,53 @@
 
 ## Pages
 
-### בית
+### תכשיטים בעבודת יד שמספרים את הסיפור שלך — Shailiro by Tania Avigail
 https://example.com
 גלי תכשיטים בעבודת יד יוקרתיים שנוצרים במיוחד בשבילך. כל יצירה משקפת אומנות אישית ותשומת לב לפרטים הקטנים. הזמיני את התכשיט המושלם עכשיו
 
-### אודות
-https://example.com/about
-טניה אביגיל יוצרת תכשיטים בעבודת יד עם אהבה ומסירות מלאה. הכירי את הסיפור, החזון והתשוקה שמניעים כל יצירה אומנותית שאנחנו מעניקות ללקוחותינו
-
-### הזמנות מותאמות
+### עיצוב תכשיטים בעבודת יד בהזמנה אישית — Shailiro by Tania Avigail
 https://example.com/custom-orders
 הזמיני תכשיטים בעבודת יד לכלות ולאירועים מיוחדים בעיצוב אישי בלעדי. נגשים את החלום שלך למציאות עם תכשיט מותאם שמשקף את הסגנון והאישיות שלך
 
-### צור קשר
-https://example.com/contact
-מוכנה להתחיל את המסע? צרי קשר עכשיו לייעוץ אישי והזמנת תכשיטים בעבודת יד. נשמח להפוך את הרעיון שלך לתכשיט יוקרתי ומרהיב שישמור על זיכרונות לנצח
+### האומנות מאחורי כל תכשיט בעבודת יד — Shailiro by Tania Avigail
+https://example.com/about
+טניה אביגיל יוצרת תכשיטים בעבודת יד עם אהבה ומסירות מלאה. הכירי את הסיפור, החזון והתשוקה שמניעים כל יצירה אומנותית שאנחנו מעניקות ללקוחותינו
 
-### Products
+### מוצרים
 https://example.com/products
 המוצרים שלנו - Shailiro by Tania Avigail
 
-### Cart
+### עגלת קניות
 https://example.com/cart
 עגלת הקניות שלך
 
-### Checkout
+### תשלום
 https://example.com/checkout
 תשלום
 
-### Login
+### התחברות
 https://example.com/login
 התחברות לקוחות
 
-### Account
+### החשבון שלי
 https://example.com/account
 החשבון שלי
 
-### Order Success
+### ההזמנה התקבלה!
 https://example.com/order-success
 תודה על ההזמנה
 
-### Product Detail
+### פרטי המוצר
 https://example.com/product/:slug
 פרטי המוצר - Shailiro by Tania Avigail
 
-### Category
+### מוצרים
 https://example.com/category/:slug
 מוצרים - Shailiro by Tania Avigail
+
+### בואי ליצור את התכשיט המושלם ביחד — Shailiro by Tania Avigail
+https://example.com/contact
+מוכנה להתחיל את המסע? צרי קשר עכשיו לייעוץ אישי והזמנת תכשיטים בעבודת יד. נשמח להפוך את הרעיון שלך לתכשיט יוקרתי ומרהיב שישמור על זיכרונות לנצח
 
 ## Legal & Policy
 

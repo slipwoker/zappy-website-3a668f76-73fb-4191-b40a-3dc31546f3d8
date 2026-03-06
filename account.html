@@ -917,7 +917,7 @@
   <div class="footer-container">
     <div class="footer-top">
       <div class="footer-column footer-about">
-        <img class="logo" data-placeholder="logo" data-context="business logo" width="150" height="40" src="/assets/shailiro-by-tania-avigail-logo-1772819488635-krefbw.webp?v=1772819488961-9rz0c1" alt="Shailiro by Tania Avigail">
+        <img class="logo zappy-editable-image" data-placeholder="logo" data-context="business logo" width="150" height="40" src="/assets/business-general-service-upload-1772821080520.webp" alt="Shailiro by Tania Avigail" data-original-position="static" style="position: relative; object-fit: cover; object-position: 50% 50%; width: auto; height: auto; max-width: 600px; display: block; border-radius: 8px; margin-top: 20px; margin-right: auto !important; margin-bottom: 20px; margin-left: auto !important;" data-element-id="img-1772821035390-1mk7w9htn" data-element-type="image" data-zappy-zoom="1">
         <p class="footer-tagline">תכשיטים ייחודיים ואופנה מעוצבת</p>
       </div>
       
@@ -933,9 +933,9 @@
       <div class="footer-column footer-contact">
         <h3 class="footer-heading">יצירת קשר</h3>
         <ul class="contact-list">
-          <li><i class="fas fa-envelope"></i> <a href="mailto:[business_email]">[business_email]</a></li>
-          <li><i class="fas fa-phone"></i> <a href="tel:[business_phone]">[business_phone]</a></li>
-          <li><a href="/"><i class="fas fa-map-marker-alt"></i> <span>חרמון 28, כרמיאל, ישראל</span></a></li>
+          <li><i class="fas fa-envelope" data-element-type="icon" data-element-id="icon-1772821013891-79m5bgror" data-icon-type="fontawesome"></i> <a href="mailto:[business_email]">[business_email]</a></li>
+          <li><i class="fas fa-phone" data-element-type="icon" data-element-id="icon-1772821013891-4dxrus9pj" data-icon-type="fontawesome"></i> <a href="tel:[business_phone]">[business_phone]</a></li>
+          <li><a href="/"><i class="fas fa-map-marker-alt" data-element-type="icon" data-element-id="icon-1772821013891-pgp95gszu" data-icon-type="fontawesome"></i> <span>חרמון 28, כרמיאל, ישראל</span></a></li>
         </ul>
       </div>
       
@@ -989,11 +989,11 @@
   </div>
 </aside>
   <script>
-  &lt;!-- Search handling for e-commerce pages --&gt;
+  <!-- Search handling for e-commerce pages -->
   (function() {
     // Unified search function that works in both preview and deployed modes
     function performSearch(query) {
-      if (query.length &lt; 2) return;
+      if (query.length < 2) return;
       
       // Check if we're in preview mode (URL contains preview-fullscreen)
       var isPreview = window.location.pathname.includes('preview-fullscreen');
@@ -1028,7 +1028,7 @@
     var searchToggle = document.querySelector('.nav-search-toggle');
     
     // Open mobile search panel
-    if (searchToggle &amp;&amp; mobileSearchPanel) {
+    if (searchToggle && mobileSearchPanel) {
       searchToggle.addEventListener('click', function(e) {
         e.preventDefault();
         e.stopPropagation();
@@ -1040,7 +1040,7 @@
     }
     
     // Close mobile search panel
-    if (closeMobileSearch &amp;&amp; mobileSearchPanel) {
+    if (closeMobileSearch && mobileSearchPanel) {
       closeMobileSearch.addEventListener('click', function() {
         mobileSearchPanel.classList.remove('active');
         if (mobileSearchInput) mobileSearchInput.value = '';

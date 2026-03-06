@@ -8,6 +8,10 @@
 https://example.com
 גלי תכשיטים בעבודת יד יוקרתיים שנוצרים במיוחד בשבילך. כל יצירה משקפת אומנות אישית ותשומת לב לפרטים הקטנים. הזמיני את התכשיט המושלם עכשיו
 
+### מוצרים
+https://example.com/products
+המוצרים שלנו - Shailiro by Tania Avigail
+
 ### עיצוב תכשיטים בעבודת יד בהזמנה אישית — Shailiro by Tania Avigail
 https://example.com/custom-orders
 הזמיני תכשיטים בעבודת יד לכלות ולאירועים מיוחדים בעיצוב אישי בלעדי. נגשים את החלום שלך למציאות עם תכשיט מותאם שמשקף את הסגנון והאישיות שלך
@@ -15,10 +19,6 @@ https://example.com/custom-orders
 ### האומנות מאחורי כל תכשיט בעבודת יד — Shailiro by Tania Avigail
 https://example.com/about
 טניה אביגיל יוצרת תכשיטים בעבודת יד עם אהבה ומסירות מלאה. הכירי את הסיפור, החזון והתשוקה שמניעים כל יצירה אומנותית שאנחנו מעניקות ללקוחותינו
-
-### מוצרים
-https://example.com/products
-המוצרים שלנו - Shailiro by Tania Avigail
 
 ### עגלת קניות
 https://example.com/cart

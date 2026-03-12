@@ -5586,6 +5586,12 @@ body.accessibility-widget-visible ._access-menu {
 
 
 
+
+
+
+
+
+
 /* ==ZAPPY V2 E-COMMERCE THEME CSS== */
 /* ═══════════════════════════════════════════════════════════════════════════ */
 /* V2 E-COMMERCE CSS - Clean V2 Variables Only                                  */
@@ -7711,19 +7717,17 @@ main.page-container.ecommerce-page,
   min-width: 44px;
   max-width: 44px;
   flex: 0 0 44px;
-  /* V2 theme colors - explicit for light/dark */
-  background: var(--bg-light);
   border: none;
   border-radius: 50%;
   cursor: pointer;
-  color: var(--text-dark);
+  color: inherit;
   flex-shrink: 0;
   order: 3; /* X button last */
   padding: 0;
 }
 .mobile-search-panel .close-search:hover { 
   background: rgba(0,0,0,0.05);
-  color: var(--text-dark);
+  color: inherit;
 }
 .mobile-search-panel .close-search svg {
   width: 20px;
@@ -7731,10 +7735,10 @@ main.page-container.ecommerce-page,
   max-width: 20px;
   height: 20px;
   flex-shrink: 0;
-  stroke: var(--text-dark);
+  stroke: currentColor;
   stroke-width: 2;
   fill: none;
-  color: var(--text-dark);
+  color: inherit;
 }
 .mobile-search-panel .search-results {
   margin-top: 16px;
@@ -8483,8 +8487,10 @@ main,
    Use "-section" block matching and exclude BEM elements (class*="__").
    This prevents breaking hero background wrappers like:
    - .home-hero-section__background
-   which MUST remain position:absolute for full-bleed hero media. */
-[class*="-section"]:not([class*="__"]):not(.navbar):not(.zappy-announcement-bar):not(.zappy-catalog-menu):not(.zappy-section-controls):not([class*="zappy-"]) {
+   which MUST remain position:absolute for full-bleed hero media.
+   Also exclude divider-wrapper elements which MUST remain position:absolute
+   at the bottom of their parent section for seamless section transitions. */
+[class*="-section"]:not([class*="__"]):not([class*="divider-wrapper"]):not([class*="divider_wrapper"]):not(.navbar):not(.zappy-announcement-bar):not(.zappy-catalog-menu):not(.zappy-section-controls):not([class*="zappy-"]) {
   position: relative !important;
   z-index: 1 !important;
 }
@@ -8791,7 +8797,7 @@ main,
   .navbar .sub-menu li a,
   nav.navbar .sub-menu li a,
   .zappy-products-dropdown .sub-menu a {
-    color: var(--nav-text, var(--text-dark)) !important;
+    color: inherit;
     padding: 10px 16px !important;
     border-radius: 0 !important;
   }
@@ -8799,7 +8805,7 @@ main,
   nav.navbar .sub-menu li a:hover,
   .zappy-products-dropdown .sub-menu a:hover {
     background: transparent !important;
-    color: var(--nav-text, var(--text-dark)) !important;
+    color: inherit;
   }
 
   /* Mobile submenu toggle arrow: flex child that stretches to match the nav-link height
@@ -8821,7 +8827,7 @@ main,
     padding: 0 !important;
     margin: 0 !important;
     z-index: 2 !important;
-    color: var(--nav-text, var(--text-dark)) !important;
+    color: inherit;
   }
   .mobile-submenu-toggle::after {
     content: '' !important;
@@ -9475,6 +9481,22 @@ main,
 .favorite-remove-btn:hover { background: #dc2626; color: white; }
 @media (max-width: 480px) { .favorites-grid { grid-template-columns: repeat(2, 1fr); gap: 10px; } }
 /* ========== END PRODUCT ICON STYLES ========== */
+
+/* ========== ORPHANED_ZOOM_IMG_FIX ========== */
+@media (max-width: 768px) {
+  .zappy-preserve-css-grid > img[data-zappy-zoom],
+  [class*="-grid"] > img[data-zappy-zoom] {
+    position: relative !important;
+    width: 100% !important;
+    height: auto !important;
+    max-width: 100% !important;
+    max-height: 300px !important;
+    object-fit: cover !important;
+    left: auto !important;
+    top: auto !important;
+  }
+}
+/* ========== END ORPHANED_ZOOM_IMG_FIX ========== */
 
 
 /* ========== GRID RESPONSIVE FIX (zappy-grid-mobile-fix) ========== */

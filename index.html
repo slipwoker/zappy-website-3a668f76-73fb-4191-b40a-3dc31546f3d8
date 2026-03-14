@@ -1207,7 +1207,229 @@
   <main>
     
 
-
+<section style="position: relative; width: 100%; max-width: 100%; box-sizing: border-box; min-height: 100vh; overflow: hidden; background: var(--bg-dark); font-family: var(--font-body); margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin-top: -132px !important; padding-top: 132px !important; background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(&quot;assets/business-general-hero-upload-1773525774295.webp&quot;); background-size: cover; background-position: center; background-repeat: no-repeat; --zappy-bg-overlay: rgba(0, 0, 0, 0.3); --zappy-bg-image: url(&quot;assets/business-general-hero-upload-1773525774295.webp&quot;)" data-zappy-section="true" class="section" id="zappy-section-0" data-zappy-bg-type="image" data-zappy-bg-color="" data-zappy-bg-image="assets/business-general-hero-upload-1773525774295.webp" data-zappy-bg-overlay-color="#000000" data-zappy-bg-overlay-opacity="30" data-zappy-bg-video-type="" data-zappy-bg-video-url="">
+  <style>
+    @keyframes heroFadeIn {
+      from {
+        opacity: 0;
+        transform: translateY(30px);
+      }
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+    
+    @keyframes heroScaleIn {
+      from {
+        transform: scale(1.1);
+      }
+      to {
+        transform: scale(1);
+      }
+    }
+    
+    @keyframes shimmer {
+      0% {
+        background-position: -1000px 0;
+      }
+      100% {
+        background-position: 1000px 0;
+      }
+    }
+    
+    .hero-bold-container {
+      position: relative;
+      width: 100%;
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      overflow: hidden;
+    }
+    
+    .hero-bold-bg {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      z-index: 0;
+      background-position: center center;
+      background-size: cover;
+      background-repeat: no-repeat;
+      animation: heroScaleIn 1.2s ease-out forwards;
+    }
+    
+    .hero-bold-overlay {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      z-index: 1;
+      background: linear-gradient(135deg, rgba(29, 31, 35, 0.85) 0%, rgba(200, 107, 125, 0.65) 50%, rgba(29, 31, 35, 0.85) 100%);
+      mix-blend-mode: multiply;
+    }
+    
+    .hero-bold-content {
+      position: relative;
+      z-index: 10;
+      text-align: center;
+      padding: 120px var(--spacing-md) var(--spacing-xl);
+      max-width: 900px;
+      animation: heroFadeIn 1s ease-out 0.3s backwards;
+    }
+    
+    .hero-bold-h1 {
+      font-family: var(--font-heading);
+      font-size: clamp(3rem, 8vw, 7rem);
+      font-weight: 400;
+      color: var(--text-light);
+      margin: 0 0 var(--spacing-md);
+      line-height: 1.1;
+      letter-spacing: -0.02em;
+      text-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
+      position: relative;
+    }
+    
+    .hero-bold-h1::after {
+      content: '';
+      position: absolute;
+      bottom: -20px;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 120px;
+      height: 3px;
+      background: var(--gradient-gold-accent);
+      border-radius: 2px;
+    }
+    
+    .hero-bold-h3 {
+      font-family: var(--font-body);
+      font-size: clamp(1.125rem, 2.5vw, 1.75rem);
+      font-weight: 300;
+      color: var(--text-light);
+      margin: var(--spacing-lg) 0 0;
+      line-height: 1.6;
+      letter-spacing: 0.03em;
+      text-shadow: 0 2px 12px rgba(0, 0, 0, 0.4);
+      opacity: 0.95;
+    }
+    
+    .hero-bold-accent-line {
+      position: absolute;
+      top: 50%;
+      right: 10%;
+      transform: translateY(-50%) rotate(-15deg);
+      width: 300px;
+      height: 2px;
+      background: var(--gradient-gold-shine);
+      opacity: 0.4;
+      z-index: 2;
+      animation: shimmer 3s infinite linear;
+      background-size: 1000px 100%;
+    }
+    
+    .hero-bold-accent-line-2 {
+      position: absolute;
+      bottom: 25%;
+      left: 8%;
+      transform: rotate(25deg);
+      width: 250px;
+      height: 2px;
+      background: var(--gradient-gold-shine);
+      opacity: 0.3;
+      z-index: 2;
+      animation: shimmer 4s infinite linear reverse;
+      background-size: 1000px 100%;
+    }
+    
+    .hero-bold-geometric {
+      position: absolute;
+      top: 15%;
+      left: 12%;
+      width: 80px;
+      height: 80px;
+      border: 2px solid rgba(201, 163, 106, 0.3);
+      border-radius: 50%;
+      z-index: 2;
+      animation: heroFadeIn 1.5s ease-out 0.8s backwards;
+    }
+    
+    .hero-bold-geometric-2 {
+      position: absolute;
+      bottom: 20%;
+      right: 15%;
+      width: 60px;
+      height: 60px;
+      border: 2px solid rgba(200, 107, 125, 0.4);
+      transform: rotate(45deg);
+      z-index: 2;
+      animation: heroFadeIn 1.5s ease-out 1s backwards;
+    }
+    
+    @media (max-width: 768px) {
+      .hero-bold-content {
+        padding-top: 140px;
+        padding-bottom: var(--spacing-lg);
+      }
+      
+      .hero-bold-h1::after {
+        width: 80px;
+        bottom: -15px;
+      }
+      
+      .hero-bold-accent-line,
+      .hero-bold-accent-line-2 {
+        display: none;
+      }
+      
+      .hero-bold-geometric {
+        width: 50px;
+        height: 50px;
+        top: 10%;
+        left: 5%;
+      }
+      
+      .hero-bold-geometric-2 {
+        width: 40px;
+        height: 40px;
+        bottom: 15%;
+        right: 8%;
+      }
+    }
+    
+    @media (max-width: 480px) {
+      .hero-bold-content {
+        padding-top: 120px;
+      }
+      
+      .hero-bold-h1 {
+        font-size: 2.5rem;
+      }
+      
+      .hero-bold-h3 {
+        font-size: 1rem;
+      }
+    }
+  </style>
+  
+  <div class="hero-bold-container">
+    <div class="hero-bold-bg" style="background-image: url('assets/business-general-hero-upload-1772819968960.webp');  background-size: cover; background-position: center;"></div>
+    <div class="hero-bold-overlay"></div>
+    
+    <div class="hero-bold-accent-line"></div>
+    <div class="hero-bold-accent-line-2"></div>
+    <div class="hero-bold-geometric"></div>
+    <div class="hero-bold-geometric-2"></div>
+    
+    <div class="hero-bold-content">
+      
+      
+    <div class="zappy-inserted-element" id="zappy-element-1772820486636-jxkc7cmhp" data-element-id="zappy-element-1772820486636-jxkc7cmhp" data-element-type="button" data-zappy-newly-inserted="true" style="margin: 20px auto; text-align: center; display: flex; justify-content: center; align-items: flex-start; max-width: 325px !important; width: 100% !important; align-self: start !important; height: auto !important;"><a href="#" class="btn btn-ghost" style="text-decoration: none; padding: 12px 24px; border-radius: 6px; display: inline-block; border-style: solid; border-width: 2px; border-image: initial; outline: none; border-color: transparent !important; color: var(--primary-color, var(--primary, #8B0000)) !important; width: auto !important; flex: 0 0 auto !important; background-color: transparent !important; background-image: none !important;" data-element-type="button" data-text-color="#FFFFFF" data-element-id="btn-1772820642704-9axkj839t" id="btn-1772820642704-9axkj839t">גלי את הקולקציה</a></div></div>
+  </div>
+</section>
 
 
 

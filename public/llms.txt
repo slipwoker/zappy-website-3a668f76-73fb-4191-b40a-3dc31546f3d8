@@ -1,91 +1,79 @@
-# Shailiro by Tania Avigail — Generative Engine Optimization Map
-
-> A handmade jewelry business specializing in artisanal, handcrafted pieces. The brand emphasizes the personal touch and uniqueness of handmade craftsmanship, offering custom jewelry items that reflect individual artistry and attention to detail.
+# Business — Generative Engine Optimization Map
 
 ---
 
 ## Pages
 
 ### תכשיטים בעבודת יד שמספרים את הסיפור שלך — Shailiro by Tania Avigail
-https://shailiro-by-tania-avigail.zappy5.app
+https://shailiro.co.il
 גלי תכשיטים בעבודת יד יוקרתיים שנוצרים במיוחד בשבילך. כל יצירה משקפת אומנות אישית ותשומת לב לפרטים הקטנים. הזמיני את התכשיט המושלם עכשיו
 
 ### Products
-https://shailiro-by-tania-avigail.zappy5.app/products
+https://shailiro.co.il/products
 המוצרים שלנו - Shailiro by Tania Avigail
 
 ### עיצוב תכשיטים בעבודת יד בהזמנה אישית — Shailiro by Tania Avigail
-https://shailiro-by-tania-avigail.zappy5.app/custom-orders
+https://shailiro.co.il/custom-orders
 הזמיני תכשיטים בעבודת יד לכלות ולאירועים מיוחדים בעיצוב אישי בלעדי. נגשים את החלום שלך למציאות עם תכשיט מותאם שמשקף את הסגנון והאישיות שלך
 
 ### האומנות מאחורי כל תכשיט בעבודת יד — Shailiro by Tania Avigail
-https://shailiro-by-tania-avigail.zappy5.app/about
+https://shailiro.co.il/about
 טניה אביגיל יוצרת תכשיטים בעבודת יד עם אהבה ומסירות מלאה. הכירי את הסיפור, החזון והתשוקה שמניעים כל יצירה אומנותית שאנחנו מעניקות ללקוחותינו
 
 ### Cart
-https://shailiro-by-tania-avigail.zappy5.app/cart
+https://shailiro.co.il/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://shailiro-by-tania-avigail.zappy5.app/checkout
+https://shailiro.co.il/checkout
 תשלום
 
 ### Login
-https://shailiro-by-tania-avigail.zappy5.app/login
+https://shailiro.co.il/login
 התחברות לקוחות
 
 ### Account
-https://shailiro-by-tania-avigail.zappy5.app/account
+https://shailiro.co.il/account
 החשבון שלי
 
 ### Order Success
-https://shailiro-by-tania-avigail.zappy5.app/order-success
+https://shailiro.co.il/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://shailiro-by-tania-avigail.zappy5.app/product/:slug
+https://shailiro.co.il/product/:slug
 פרטי המוצר - Shailiro by Tania Avigail
 
 ### Category
-https://shailiro-by-tania-avigail.zappy5.app/category/:slug
+https://shailiro.co.il/category/:slug
 מוצרים - Shailiro by Tania Avigail
 
 ### בואי ליצור את התכשיט המושלם ביחד — Shailiro by Tania Avigail
-https://shailiro-by-tania-avigail.zappy5.app/contact
+https://shailiro.co.il/contact
 מוכנה להתחיל את המסע? צרי קשר עכשיו לייעוץ אישי והזמנת תכשיטים בעבודת יד. נשמח להפוך את הרעיון שלך לתכשיט יוקרתי ומרהיב שישמור על זיכרונות לנצח
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://shailiro-by-tania-avigail.zappy5.app/privacy
+https://shailiro.co.il/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://shailiro-by-tania-avigail.zappy5.app/terms
+https://shailiro.co.il/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://shailiro-by-tania-avigail.zappy5.app/accessibility
+https://shailiro.co.il/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Shailiro by Tania Avigail
-A handmade jewelry business specializing in artisanal, handcrafted pieces. The brand emphasizes the personal touch and uniqueness of handmade craftsmanship, offering custom jewelry items that reflect individual artistry and attention to detail.
-
-## Target Audience
-- מחפשי יוקרה אקולוגיים
-- קונים מתנות לאירועים מיוחדים
-- כלות המחפשות תכשיטים בעבודת יד
-
-## Industry
-תכשיטים ואופנה
-
+## About Business
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://shailiro-by-tania-avigail.zappy5.app/sitemap.xml
-- **Robots.txt**: https://shailiro-by-tania-avigail.zappy5.app/robots.txt
+- **Sitemap**: https://shailiro.co.il/sitemap.xml
+- **Robots.txt**: https://shailiro.co.il/robots.txt

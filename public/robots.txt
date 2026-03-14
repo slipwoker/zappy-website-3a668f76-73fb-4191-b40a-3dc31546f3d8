@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://shailiro-by-tania-avigail.zappy5.app/sitemap.xml
+Sitemap: https://shailiro.co.il/sitemap.xml

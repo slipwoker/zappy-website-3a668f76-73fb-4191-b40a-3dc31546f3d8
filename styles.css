@@ -5610,6 +5610,12 @@ body.accessibility-widget-visible ._access-menu {
 
 
 
+
+
+
+
+
+
 /* ==ZAPPY V2 E-COMMERCE THEME CSS== */
 /* ═══════════════════════════════════════════════════════════════════════════ */
 /* V2 E-COMMERCE CSS - Clean V2 Variables Only                                  */
@@ -7341,6 +7347,7 @@ main.page-container.ecommerce-page,
   left: 0;
   width: 400px;
   max-width: 90vw;
+  height: 100dvh;
   height: 100vh;
   background: var(--bg-light);
   /* Must be above overlay, navbar, and announcement bar */
@@ -7350,7 +7357,9 @@ main.page-container.ecommerce-page,
   transform: translateX(-100%);
   transition: transform 0.3s ease;
   box-shadow: -4px 0 20px rgba(0,0,0,0.15);
+  box-sizing: border-box;
 }
+@supports (height: 100dvh) { .cart-drawer { height: 100dvh; } }
 .cart-drawer.active {
   transform: translateX(0);
 }
@@ -7360,6 +7369,7 @@ main.page-container.ecommerce-page,
   align-items: center;
   padding: 20px 24px;
   border-bottom: 1px solid var(--border-light);
+  flex-shrink: 0;
 }
 .cart-drawer-header h2 {
   margin: 0;
@@ -7410,6 +7420,7 @@ main.page-container.ecommerce-page,
 .cart-drawer-close:hover { color: var(--text-dark); }
 .cart-drawer-body {
   flex: 1;
+  min-height: 0;
   overflow-y: auto;
   padding: 16px 24px;
 }
@@ -7573,7 +7584,9 @@ main.page-container.ecommerce-page,
 }
 .cart-drawer-footer {
   padding: 20px 24px;
+  padding-bottom: calc(20px + env(safe-area-inset-bottom, 0px));
   border-top: 1px solid var(--border-light);
+  flex-shrink: 0;
 }
 .cart-drawer-total {
   display: flex;
@@ -7871,6 +7884,12 @@ html[lang="ar"] .mobile-search-panel .search-wrapper,
   #navMenu.active {
     background-color: var(--nav-bg, var(--bg-light));
   }
+  .nav-menu.active,
+  .nav-menu.nav-menu-active,
+  #navMenu.active {
+    max-height: calc(100dvh - 70px) !important;
+    overflow-y: auto !important;
+  }
 
   /* Ensure hamburger is visible on mobile e-commerce pages.
      Some generated navbars accidentally ship ".mobile-toggle { display:none; }" without a media query.
@@ -7974,7 +7993,7 @@ html[lang="ar"] .mobile-search-panel .search-wrapper,
     position: absolute !important;
     left: unset !important;
     right: unset !important;
-    inset-inline-end: 0px !important;
+    inset-inline-end: 12px !important;
     inset-inline-start: auto !important;
     top: 50% !important;
     transform: translateY(-50%) !important;

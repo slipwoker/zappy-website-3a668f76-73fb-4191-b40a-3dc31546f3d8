@@ -5628,6 +5628,12 @@ body.accessibility-widget-visible ._access-menu {
 
 
 
+
+
+
+
+
+
 /* ==ZAPPY V2 E-COMMERCE THEME CSS== */
 /* ═══════════════════════════════════════════════════════════════════════════ */
 /* V2 E-COMMERCE CSS - Clean V2 Variables Only                                  */
@@ -7647,7 +7653,7 @@ main.page-container.ecommerce-page,
 }
 .nav-search-btn:hover { 
   background: rgba(128,128,128,0.12) !important; 
-  color: var(--nav-text-hover, var(--primary)) !important; 
+  color: var(--nav-text-hover, var(--accent)) !important; 
 }
 
 /* Search results dropdown - uses surface bg with regular text (not nav text) */
@@ -7680,7 +7686,7 @@ main.page-container.ecommerce-page,
 }
 .cart-link.nav-cart:hover { 
   background: rgba(128,128,128,0.12) !important; 
-  color: var(--nav-text-hover, var(--primary)) !important; 
+  color: var(--nav-text-hover, var(--accent)) !important; 
 }
 .cart-link.nav-cart .cart-count { 
   background: var(--accent, #FF2DAA) !important; 
@@ -7697,7 +7703,7 @@ main.page-container.ecommerce-page,
 }
 .login-link.nav-login:hover { 
   background: rgba(128,128,128,0.12) !important; 
-  color: var(--nav-text-hover, var(--primary)) !important; 
+  color: var(--nav-text-hover, var(--accent)) !important; 
 }
 
 /* Search toggle button - uses nav text for icon color */
@@ -8428,7 +8434,7 @@ body.zappy-focused-page .zappy-announcement-bar {
 }
 .catalog-menu-item:hover,
 .catalog-menu-all:hover {
-  color: var(--nav-text-hover, var(--primary)) !important;
+  color: var(--nav-text-hover, var(--accent)) !important;
   background: rgba(128,128,128,0.1);
 }
 .catalog-menu-categories {
@@ -8486,7 +8492,7 @@ body.zappy-focused-page .zappy-announcement-bar {
   }
   .zappy-products-dropdown .sub-menu a:hover {
     background: rgba(128,128,128,0.1) !important;
-    color: var(--nav-text-hover, var(--primary)) !important;
+    color: var(--nav-text-hover, var(--accent)) !important;
   }
 }
 
@@ -9061,7 +9067,7 @@ main,
 .shipping-option input[type="radio"] { 
   width: 20px !important; 
   height: 20px !important; 
-  margin-top: 2px !important; 
+  margin-top: 7px !important; 
   accent-color: var(--accent) !important; 
   cursor: pointer !important; 
   flex-shrink: 0 !important;

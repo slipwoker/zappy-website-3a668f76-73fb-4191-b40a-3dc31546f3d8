@@ -5634,6 +5634,12 @@ body.accessibility-widget-visible ._access-menu {
 
 
 
+
+
+
+
+
+
 /* ==ZAPPY V2 E-COMMERCE THEME CSS== */
 /* ═══════════════════════════════════════════════════════════════════════════ */
 /* V2 E-COMMERCE CSS - Clean V2 Variables Only                                  */
@@ -6204,6 +6210,28 @@ main.page-container.ecommerce-page,
   border-radius: 4px !important;
   flex-shrink: 0 !important;
   cursor: pointer !important;
+}
+.terms-checkbox-wrapper {
+  margin: 16px 0 !important;
+  padding: 12px !important;
+  background: rgba(0,0,0,0.02) !important;
+  border-radius: 8px !important;
+}
+.terms-checkbox-label {
+  display: flex !important;
+  align-items: center !important;
+  gap: 10px !important;
+  cursor: pointer !important;
+  font-size: 14px !important;
+  color: var(--text-dark) !important;
+}
+.terms-link {
+  color: var(--accent) !important;
+  text-decoration: underline !important;
+  font-weight: 500 !important;
+}
+.terms-link:hover {
+  opacity: 0.8 !important;
 }
 .save-address-wrapper {
   margin-top: 16px !important;

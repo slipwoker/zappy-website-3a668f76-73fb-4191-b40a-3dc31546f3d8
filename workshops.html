@@ -239,7 +239,23 @@
                 display: list-item !important;
               }
             }
-          </style>
+          
+/* Zappy focus-outline fix */
+a:focus:not(:focus-visible),
+button:focus:not(:focus-visible) {
+  outline: none !important;
+}
+a:focus-visible,
+button:focus-visible {
+  outline: 2px solid var(--primary-color, var(--primary, var(--accent, #ff0083)));
+  outline-offset: 2px;
+}
+a, button {
+  -webkit-tap-highlight-color: transparent;
+}
+/* /Zappy focus-outline fix */
+
+</style>
         
           <style id="zappy-nested-menu-style">
             /* Desktop only: vertically center nav items */

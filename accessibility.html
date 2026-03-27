@@ -292,7 +292,23 @@
             margin: 20px 0;
         }
     
-    </style>
+    
+/* Zappy focus-outline fix */
+a:focus:not(:focus-visible),
+button:focus:not(:focus-visible) {
+  outline: none !important;
+}
+a:focus-visible,
+button:focus-visible {
+  outline: 2px solid var(--primary-color, var(--primary, var(--accent, #ff0083)));
+  outline-offset: 2px;
+}
+a, button {
+  -webkit-tap-highlight-color: transparent;
+}
+/* /Zappy focus-outline fix */
+
+</style>
     <!-- Cookie Consent -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/vanilla-cookieconsent@3/dist/cookieconsent.css">
     <script src="https://cdn.jsdelivr.net/npm/vanilla-cookieconsent@3/dist/cookieconsent.umd.js"></script>

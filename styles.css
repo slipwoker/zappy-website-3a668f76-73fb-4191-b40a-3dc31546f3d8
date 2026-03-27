@@ -9658,6 +9658,21 @@ main,
 .privacy-consent a:hover {
   opacity: 0.75;
 }
+/* Zappy focus-outline fix */
+a:focus:not(:focus-visible),
+button:focus:not(:focus-visible) {
+  outline: none !important;
+}
+a:focus-visible,
+button:focus-visible {
+  outline: 2px solid var(--primary-color, var(--primary, var(--accent, #ff0083)));
+  outline-offset: 2px;
+}
+a, button {
+  -webkit-tap-highlight-color: transparent;
+}
+/* /Zappy focus-outline fix */
+
 
 /* ========== RTL MOBILE NAVBAR FIX (zappy-rtl-mobile-fix) ========== */
 /* High-specificity rules to ensure RTL positioning wins over any [lang="en"] conflicts */

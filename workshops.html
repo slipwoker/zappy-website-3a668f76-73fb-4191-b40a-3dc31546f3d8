@@ -1588,40 +1588,6 @@ a, button {
     width: 100%;
     max-width: 320px;
   }
-}</style><style>
-/* Announcement Bar Styles */
-.zappy-announcement-bar {
-  background-color: #5e4e41;
-  color: #ffffff;
-  position: fixed;
-  top: 0;
-  left: 0;
-  right: 0;
-  width: 100%;
-  text-align: center;
-  padding: 10px 20px;
-  font-size: 14px;
-  font-weight: 500;
-  line-height: 1.4;
-  box-sizing: border-box;
-  z-index: 1001;
-  min-height: 40px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-.zappy-announcement-bar .zappy-announcement-message {
-  position: absolute;
-  opacity: 0;
-  transition: opacity 0.5s ease-in-out;
-  width: 100%;
-  left: 0;
-  right: 0;
-  padding: 0 20px;
-  box-sizing: border-box;
-}
-.zappy-announcement-bar .zappy-announcement-message.active {
-  opacity: 1;
 }</style>
 
     <style id="zppb-promo-banner-styles">
@@ -1648,6 +1614,43 @@ a, button {
     @keyframes zppbScaleIn { from { opacity:0; transform:scale(0.85); } to { opacity:1; transform:scale(1); } }
     @media (max-width:480px) { .zppb-banner { padding:32px 20px; min-height:400px; } .zppb-h { font-size:22px; } .zppb-sub { font-size:14px; } .zppb-countdown { font-size:24px; } .zppb-countdown span { padding:6px 12px; } }
     body.zappy-edit-mode .zppb-overlay { display:none !important; }
+    </style>
+
+    <style id="zappy-announcement-bar-styles">
+    /* Announcement Bar Styles */
+    .zappy-announcement-bar {
+      background-color: #5e4e41 !important;
+      color: #ffffff !important;
+      position: fixed !important;
+      top: 0 !important;
+      left: 0 !important;
+      right: 0 !important;
+      width: 100% !important;
+      text-align: center !important;
+      padding: 10px 20px !important;
+      font-size: 14px !important;
+      font-weight: 500 !important;
+      line-height: 1.4 !important;
+      box-sizing: border-box !important;
+      z-index: 1001 !important;
+      min-height: 40px !important;
+      display: flex !important;
+      align-items: center !important;
+      justify-content: center !important;
+    }
+    .zappy-announcement-bar .zappy-announcement-message {
+      position: absolute !important;
+      opacity: 0 !important;
+      transition: opacity 0.5s ease-in-out !important;
+      width: 100% !important;
+      left: 0 !important;
+      right: 0 !important;
+      padding: 0 20px !important;
+      box-sizing: border-box !important;
+    }
+    .zappy-announcement-bar .zappy-announcement-message.active {
+      opacity: 1 !important;
+    }
     </style>
     <link rel="stylesheet" href="/styles.css">
 
@@ -1687,7 +1690,10 @@ a, button {
 </head>
 <body>
 
-<div class="zappy-announcement-bar"><span class="zappy-announcement-message active">משלוח חינם בקניה מעל 450 ש"ח    --- לכבוד חג הפסח חיסול של מלאי על פריטים נבחרים ---</span></div><div class="mobile-search-panel" id="mobile-search-panel">
+<div class="zappy-announcement-bar">
+      <span class="zappy-announcement-message active">משלוח חינם בקניה מעל 450 ש&quot;ח</span>
+    </div>
+<div class="mobile-search-panel" id="mobile-search-panel">
       <div class="search-wrapper">
         <input type="text" id="mobile-search-input" placeholder="חיפוש מוצרים..." autocomplete="off">
         <button class="search-submit" id="mobile-search-submit" title="חיפוש">

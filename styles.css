@@ -5801,6 +5801,22 @@ a, button {
 
 
 
+
+
+@keyframes marquee-rtl {
+  0%   { transform: translateX(-100%); }
+  100% { transform: translateX(100vw); }
+}
+
+@keyframes marquee-rtl {
+  0%   { transform: translateX(100vw); }
+  100% { transform: translateX(-100%); }
+}
+
+
+
+
+
 /* ==ZAPPY V2 E-COMMERCE THEME CSS== */
 /* ═══════════════════════════════════════════════════════════════════════════ */
 /* V2 E-COMMERCE CSS - Clean V2 Variables Only                                  */
@@ -7544,6 +7560,15 @@ a, button {
 .category-header-loading { text-align: center; padding: 40px; }
 .category-title { font-size: 2rem; color: var(--text-dark); margin-bottom: 8px; }
 .category-description { color: var(--text-muted); font-size: 1.1rem; }
+.subcategory-nav { display: flex; flex-wrap: wrap; gap: 14px; margin-top: 24px; justify-content: center; }
+.subcategory-card { position: relative; width: 140px; height: 90px; border-radius: 12px; overflow: hidden; text-decoration: none; display: flex; align-items: flex-end; justify-content: center; cursor: pointer; transition: transform 0.3s ease, box-shadow 0.3s ease; flex-shrink: 0; border: 2px solid transparent; }
+.subcategory-card:hover { transform: translateY(-3px); box-shadow: 0 8px 20px rgba(0,0,0,0.15); }
+.subcategory-card.active { border-color: var(--accent); box-shadow: 0 4px 16px rgba(0,0,0,0.15); }
+.subcategory-card-bg { position: absolute; inset: 0; background-size: cover; background-position: center; transition: transform 0.3s ease; }
+.subcategory-card-bg-empty { background: linear-gradient(135deg, var(--accent), #6366f1); }
+.subcategory-card:hover .subcategory-card-bg { transform: scale(1.08); }
+.subcategory-card-overlay { position: absolute; inset: 0; background: linear-gradient(to top, rgba(0,0,0,0.65) 0%, rgba(0,0,0,0.1) 60%, rgba(0,0,0,0.05) 100%); }
+.subcategory-card-name { position: relative; z-index: 1; color: #fff; font-size: 0.85rem; font-weight: 600; text-shadow: 0 1px 4px rgba(0,0,0,0.4); padding: 8px 10px; text-align: center; line-height: 1.2; }
 .category-products-loading { text-align: center; padding: 40px; color: var(--text-muted); }
 
 /* Variant selectors */
@@ -8706,6 +8731,8 @@ html[lang="ar"] .mobile-search-panel .search-wrapper,
     pointer-events: none !important;
     transform: translateY(6px) !important;
     transition: opacity .15s ease, transform .15s ease !important;
+    max-height: calc(100vh - 150px) !important;
+    overflow-y: auto !important;
   }
   .navbar .zappy-products-dropdown:hover > .sub-menu,
   .navbar .zappy-products-dropdown:focus-within > .sub-menu {
@@ -8788,6 +8815,80 @@ body.zappy-focused-page .zappy-announcement-bar {
   direction: rtl !important;
 }
 
+/* Catalog menu parent dropdowns (categories with children) */
+.catalog-menu-parent {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+}
+.catalog-menu-trigger {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  cursor: pointer;
+}
+.catalog-menu-chevron {
+  transition: transform 0.2s ease;
+  flex-shrink: 0;
+}
+.catalog-menu-parent:hover .catalog-menu-chevron {
+  transform: rotate(180deg);
+}
+/* Use .zappy-catalog-menu ancestor for specificity 0-3-0+ to beat githubService injected rules */
+.zappy-catalog-menu .catalog-menu-parent > .sub-menu {
+  position: absolute !important;
+  top: 100% !important;
+  right: 0 !important;
+  min-width: 200px !important;
+  max-height: calc(100vh - 200px) !important;
+  overflow-y: auto !important;
+  background: var(--bg-light, #fff) !important;
+  border-radius: 8px !important;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.12) !important;
+  padding: 6px !important;
+  opacity: 0 !important;
+  visibility: hidden !important;
+  pointer-events: none !important;
+  transform: translateY(6px) !important;
+  transition: opacity 0.2s ease, transform 0.2s ease, visibility 0.2s ease !important;
+  z-index: 999999 !important;
+  display: flex !important;
+  flex-direction: column !important;
+  gap: 2px !important;
+  margin-top: 0 !important;
+}
+.catalog-menu-parent::after {
+  content: '' !important;
+  position: absolute !important;
+  bottom: -8px !important;
+  left: 0 !important;
+  right: 0 !important;
+  height: 8px !important;
+}
+.zappy-catalog-menu .catalog-menu-parent:hover > .sub-menu,
+.zappy-catalog-menu .catalog-menu-parent:focus-within > .sub-menu {
+  display: flex !important;
+  opacity: 1 !important;
+  visibility: visible !important;
+  pointer-events: auto !important;
+  transform: translateY(0) !important;
+}
+.catalog-menu-parent > .sub-menu .catalog-menu-item {
+  width: 100%;
+  justify-content: flex-start;
+  border-radius: 6px;
+  padding: 8px 14px;
+  white-space: nowrap;
+  display: block;
+  color: var(--text-color, var(--text, #333));
+  text-decoration: none;
+  transition: background-color 0.15s ease;
+}
+.catalog-menu-parent > .sub-menu .catalog-menu-item:hover {
+  background: rgba(0,0,0,0.05);
+  color: var(--primary-color, var(--primary, #111));
+}
+
 /* Dropdown in catalog menu - desktop only */
 .zappy-products-dropdown { position: relative; }
 @media (min-width: 769px) {
@@ -8796,6 +8897,8 @@ body.zappy-focused-page .zappy-announcement-bar {
     top: 100%;
     right: 0;
     min-width: 200px;
+    max-height: calc(100vh - 150px) !important;
+    overflow-y: auto !important;
     background: var(--bg-light, #ffffff) !important;
     border-radius: 8px;
     box-shadow: 0 4px 20px rgba(0,0,0,0.3);
@@ -9166,7 +9269,8 @@ main,
     opacity: 1 !important;
     visibility: visible !important;
     pointer-events: auto !important;
-    max-height: 500px !important;
+    max-height: 60vh !important;
+    overflow-y: auto !important;
   }
 
   /* Mobile sub-menu: displayed inline inside dark nav panel, NOT as a floating dropdown.
@@ -9694,6 +9798,69 @@ main,
   line-height: 1.6 !important; 
   margin: 0 !important; 
 }
+.subcategory-nav {
+  display: flex !important;
+  flex-wrap: wrap !important;
+  gap: 14px !important;
+  margin-top: 24px !important;
+  justify-content: center !important;
+}
+.subcategory-card {
+  position: relative !important;
+  width: 140px !important;
+  height: 90px !important;
+  border-radius: 12px !important;
+  overflow: hidden !important;
+  text-decoration: none !important;
+  display: flex !important;
+  align-items: flex-end !important;
+  justify-content: center !important;
+  cursor: pointer !important;
+  transition: transform 0.3s ease, box-shadow 0.3s ease !important;
+  flex-shrink: 0 !important;
+  border: 2px solid transparent !important;
+}
+.subcategory-card:hover {
+  transform: translateY(-3px) !important;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.15) !important;
+}
+.subcategory-card.active {
+  border-color: var(--accent) !important;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.15) !important;
+}
+.subcategory-card-bg {
+  position: absolute !important;
+  inset: 0 !important;
+  background-size: cover !important;
+  background-position: center !important;
+  transition: transform 0.3s ease !important;
+}
+.subcategory-card-bg-empty {
+  background: linear-gradient(135deg, var(--accent), #6366f1) !important;
+}
+.subcategory-card:hover .subcategory-card-bg {
+  transform: scale(1.08) !important;
+}
+.subcategory-card-overlay {
+  position: absolute !important;
+  inset: 0 !important;
+  background: linear-gradient(to top, rgba(0,0,0,0.65) 0%, rgba(0,0,0,0.1) 60%, rgba(0,0,0,0.05) 100%) !important;
+}
+.subcategory-card-name {
+  position: relative !important;
+  z-index: 1 !important;
+  color: #fff !important;
+  font-size: 0.85rem !important;
+  font-weight: 600 !important;
+  text-shadow: 0 1px 4px rgba(0,0,0,0.4) !important;
+  padding: 8px 10px !important;
+  text-align: center !important;
+  line-height: 1.2 !important;
+}
+@media (max-width: 640px) {
+  .subcategory-card { width: 110px !important; height: 75px !important; }
+  .subcategory-card-name { font-size: 0.78rem !important; }
+}
 .no-products { 
   text-align: center !important; 
   padding: 40px 20px !important; 
@@ -9725,16 +9892,6 @@ main,
 }
 
 /* ==END ZAPPY V2 E-COMMERCE THEME CSS== */
-
-@keyframes marquee-rtl {
-  0%   { transform: translateX(-100%); }
-  100% { transform: translateX(100vw); }
-}
-
-@keyframes marquee-rtl {
-  0%   { transform: translateX(100vw); }
-  100% { transform: translateX(-100%); }
-}
 
 /* ========== RTL MOBILE NAVBAR FIX (zappy-rtl-mobile-fix) ========== */
 /* High-specificity rules to ensure RTL positioning wins over any [lang="en"] conflicts */

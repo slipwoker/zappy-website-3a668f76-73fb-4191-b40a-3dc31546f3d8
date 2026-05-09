@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-09T13:14:33.745Z",
+  "generated_at": "2026-05-09T13:17:31.217Z",
   "base_url": "https://shailiro.co.il",
   "currency": "ILS",
   "count": 14,
@@ -55,7 +55,7 @@
     },
     {
       "id": "d6561dd2-5630-45dd-8a93-d4733bcfb0d6",
-      "slug": "tsvkr-basic-9h3fjj",
+      "slug": "tsvkr-basic-an9co4",
       "name": "צ׳וקר Basic",
       "name_translations": {},
       "description": "",
@@ -67,17 +67,13 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://shailiro.co.il/assets/product-enhanced-1773869349745-7on8g.webp",
-        "https://shailiro.co.il/assets/product-enhanced-1773869372942-93qp2.webp",
-        "https://shailiro.co.il/assets/product-enhanced-1773869396011-d43dk.webp",
-        "https://shailiro.co.il/assets/product-enhanced-1773869418764-8pq139.webp",
-        "https://shailiro.co.il/assets/product-enhanced-1773869442919-a9znaubt.webp"
+        "https://shailiro.co.il/assets/product-enhanced-1773869349745-7on8g.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://shailiro.co.il/product/tsvkr-basic-9h3fjj",
+      "url": "https://shailiro.co.il/product/tsvkr-basic-an9co4",
       "categories": [],
-      "updated_at": "2026-03-18T21:33:41.625Z"
+      "updated_at": "2026-05-09T13:17:00.376Z"
     },
     {
       "id": "6a35db0a-91b0-489b-bcae-b93866ef9928",

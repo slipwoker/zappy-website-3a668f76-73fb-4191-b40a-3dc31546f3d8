@@ -1,10 +1,35 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-09T13:06:50.333Z",
+  "generated_at": "2026-05-09T13:11:51.085Z",
   "base_url": "https://shailiro.co.il",
   "currency": "ILS",
-  "count": 13,
+  "count": 14,
   "products": [
+    {
+      "id": "2c64fc4c-2ce1-49dc-8872-886675430916",
+      "slug": "tsmyd-funny-mood-6k573v",
+      "name": "צמיד funny mood",
+      "name_translations": {},
+      "description": "",
+      "short_description": "צמיד צבעוני עם פנינת בארוק דגולה ואלמנטים מזהב. צמיד על גומיה לנוחיות מרבית.",
+      "sku": null,
+      "brand": null,
+      "price": 149,
+      "base_price": 149,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://shailiro.co.il/assets/product-1778332113491-eou0m9.webp",
+        "https://shailiro.co.il/assets/product-1778332124773-6pa6zk.webp",
+        "https://shailiro.co.il/assets/product-1778332137443-eu6x7.webp",
+        "https://shailiro.co.il/assets/product-1778332141530-bxozkn.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://shailiro.co.il/product/tsmyd-funny-mood-6k573v",
+      "categories": [],
+      "updated_at": "2026-05-09T13:11:43.879Z"
+    },
     {
       "id": "c6f1f950-2703-48e6-bd74-7734a3ab8dfa",
       "slug": "mchrvzt-lunar-mist-huzsv1",

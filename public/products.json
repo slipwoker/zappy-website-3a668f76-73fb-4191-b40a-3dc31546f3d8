@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-09T13:00:22.729Z",
+  "generated_at": "2026-05-09T13:02:29.802Z",
   "base_url": "https://shailiro.co.il",
   "currency": "ILS",
   "count": 13,
@@ -107,7 +107,7 @@
     },
     {
       "id": "9c3e3e45-3d42-4e89-a70c-18c2b8340667",
-      "slug": "agyl-stardust-jy0qsp",
+      "slug": "agyl-stardust-mvg7kr",
       "name": "עגיל Stardust",
       "name_translations": {},
       "description": "<p>חומרים:</p><p>סגסוגת פליז עם ציפוי זהב 18K.</p><p>אורך העגיל 11 ס\"מ</p>",
@@ -119,21 +119,21 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://shailiro.co.il/assets/product-1778331395157-pggfsq.webp",
-        "https://shailiro.co.il/assets/product-1778331423453-u6okp.webp"
+        "https://shailiro.co.il/assets/product-1778331423453-u6okp.webp",
+        "https://shailiro.co.il/assets/product-1778331395157-pggfsq.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://shailiro.co.il/product/agyl-stardust-jy0qsp",
+      "url": "https://shailiro.co.il/product/agyl-stardust-mvg7kr",
       "categories": [
         "עגילים",
         "לאירוע מיוחד"
       ],
-      "updated_at": "2026-05-09T12:57:11.787Z"
+      "updated_at": "2026-05-09T13:01:24.810Z"
     },
     {
       "id": "5531ea5a-c0a8-4492-ad86-8434401623cf",
-      "slug": "agyl-stella-qxr9q5",
+      "slug": "agyl-stella-hxo8ww",
       "name": "עגיל Stella",
       "name_translations": {},
       "description": "",
@@ -145,21 +145,21 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://shailiro.co.il/assets/product-1778331578861-elu949.webp",
-        "https://shailiro.co.il/assets/product-1778331566658-y9zb6n.webp"
+        "https://shailiro.co.il/assets/product-1778331566658-y9zb6n.webp",
+        "https://shailiro.co.il/assets/product-1778331578861-elu949.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://shailiro.co.il/product/agyl-stella-qxr9q5",
+      "url": "https://shailiro.co.il/product/agyl-stella-hxo8ww",
       "categories": [
         "עגילים",
         "לאירוע מיוחד"
       ],
-      "updated_at": "2026-05-09T12:59:51.829Z"
+      "updated_at": "2026-05-09T13:01:35.788Z"
     },
     {
       "id": "4221f2c2-fb33-4a57-9f09-4159dee9c433",
-      "slug": "agyl-wave-hoops-1mvzz3",
+      "slug": "agyl-wave-hoops-xuembq",
       "name": "עגיל Wave Hoops",
       "name_translations": {},
       "description": "",
@@ -171,21 +171,21 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://shailiro.co.il/assets/product-enhanced-1773827104983-uu7z8w.webp",
-        "https://shailiro.co.il/assets/product-1773771692265-aajecs.webp"
+        "https://shailiro.co.il/assets/product-1778331710142-bawnjd.webp",
+        "https://shailiro.co.il/assets/product-enhanced-1773827104983-uu7z8w.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://shailiro.co.il/product/agyl-wave-hoops-1mvzz3",
+      "url": "https://shailiro.co.il/product/agyl-wave-hoops-xuembq",
       "categories": [
         "עגילים",
         "בייסיק אל זמני "
       ],
-      "updated_at": "2026-03-18T09:45:10.859Z"
+      "updated_at": "2026-05-09T13:01:58.933Z"
     },
     {
       "id": "14c7db9b-717b-4f08-a6da-2e8903674064",
-      "slug": "agyl-luna-coin-rezde8",
+      "slug": "agyl-luna-coin-79yoza",
       "name": "עגיל Luna Coin",
       "name_translations": {},
       "description": "",
@@ -197,22 +197,22 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://shailiro.co.il/assets/product-autofit-1775739316985-1oiyr4.webp",
-        "https://shailiro.co.il/assets/product-1778331481172-5d8dhh.webp"
+        "https://shailiro.co.il/assets/product-1778331481172-5d8dhh.webp",
+        "https://shailiro.co.il/assets/product-autofit-1775739316985-1oiyr4.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://shailiro.co.il/product/agyl-luna-coin-rezde8",
+      "url": "https://shailiro.co.il/product/agyl-luna-coin-79yoza",
       "categories": [
         "עגילים",
         "בייסיק אל זמני ",
         "לאירוע מיוחד"
       ],
-      "updated_at": "2026-05-09T12:58:10.961Z"
+      "updated_at": "2026-05-09T13:01:08.792Z"
     },
     {
       "id": "82ae3f65-491e-46ba-a971-4eb4a5bd298c",
-      "slug": "agyl-pearl-drop-igyoxd",
+      "slug": "agyl-pearl-drop-deodc0",
       "name": "עגיל Pearl Drop",
       "name_translations": {},
       "description": "",
@@ -224,18 +224,18 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://shailiro.co.il/assets/product-autofit-1774383680455-j7t8x.webp",
-        "https://shailiro.co.il/assets/product-autofit-1774383687608-mii3v.webp"
+        "https://shailiro.co.il/assets/product-1778331613782-xpfdoe.webp",
+        "https://shailiro.co.il/assets/product-1778331627798-ozvlq8.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://shailiro.co.il/product/agyl-pearl-drop-igyoxd",
+      "url": "https://shailiro.co.il/product/agyl-pearl-drop-deodc0",
       "categories": [
         "עגילים",
         "בייסיק אל זמני ",
         "לאירוע מיוחד"
       ],
-      "updated_at": "2026-03-24T20:21:33.283Z"
+      "updated_at": "2026-05-09T13:00:58.020Z"
     },
     {
       "id": "c47a9e8a-6a6b-418a-859a-f9cd7aa41c6b",
@@ -292,7 +292,7 @@
     },
     {
       "id": "e6f34cce-d738-4240-acdd-86074533e94c",
-      "slug": "agyl-corona-opub2m",
+      "slug": "agyl-corona-c9xlhe",
       "name": "עגיל Corona",
       "name_translations": {},
       "description": "<p><br></p>",
@@ -304,18 +304,18 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://shailiro.co.il/assets/product-autofit-1774383573315-se8r0v.webp",
-        "https://shailiro.co.il/assets/product-autofit-1774383591617-5ez1g.webp"
+        "https://shailiro.co.il/assets/product-1778331736923-c6106s.webp",
+        "https://shailiro.co.il/assets/product-autofit-1774383573315-se8r0v.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://shailiro.co.il/product/agyl-corona-opub2m",
+      "url": "https://shailiro.co.il/product/agyl-corona-c9xlhe",
       "categories": [
         "עגילים",
         "בייסיק אל זמני ",
         "לאירוע מיוחד"
       ],
-      "updated_at": "2026-03-24T20:20:05.222Z"
+      "updated_at": "2026-05-09T13:02:26.267Z"
     },
     {
       "id": "b2a664ed-25c1-473a-a2c0-b9a00c28cb81",

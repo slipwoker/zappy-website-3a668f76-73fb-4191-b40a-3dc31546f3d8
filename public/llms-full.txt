@@ -6205,7 +6205,7 @@ Availability: In stock
 ---
 
 ### עגיל Stardust
-URL: https://shailiro.co.il/product/agyl-stardust-jy0qsp
+URL: https://shailiro.co.il/product/agyl-stardust-mvg7kr
 Price: 149.00 ILS
 Availability: In stock
 
@@ -6214,28 +6214,28 @@ Availability: In stock
 ---
 
 ### עגיל Stella
-URL: https://shailiro.co.il/product/agyl-stella-qxr9q5
+URL: https://shailiro.co.il/product/agyl-stella-hxo8ww
 Price: 149.00 ILS
 Availability: In stock
 
 ---
 
 ### עגיל Wave Hoops
-URL: https://shailiro.co.il/product/agyl-wave-hoops-1mvzz3
+URL: https://shailiro.co.il/product/agyl-wave-hoops-xuembq
 Price: 79.00 ILS
 Availability: In stock
 
 ---
 
 ### עגיל Luna Coin
-URL: https://shailiro.co.il/product/agyl-luna-coin-rezde8
+URL: https://shailiro.co.il/product/agyl-luna-coin-79yoza
 Price: 119.00 ILS
 Availability: In stock
 
 ---
 
 ### עגיל Pearl Drop
-URL: https://shailiro.co.il/product/agyl-pearl-drop-igyoxd
+URL: https://shailiro.co.il/product/agyl-pearl-drop-deodc0
 Price: 109.00 ILS
 Availability: In stock
 
@@ -6256,7 +6256,7 @@ Availability: In stock
 ---
 
 ### עגיל Corona
-URL: https://shailiro.co.il/product/agyl-corona-opub2m
+URL: https://shailiro.co.il/product/agyl-corona-c9xlhe
 Price: 79.00 ILS
 Availability: In stock
 

@@ -1,9 +1,9 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-09T12:06:20.398Z",
+  "generated_at": "2026-05-09T12:34:31.728Z",
   "base_url": "https://shailiro.co.il",
   "currency": "ILS",
-  "count": 14,
+  "count": 13,
   "products": [
     {
       "id": "c6f1f950-2703-48e6-bd74-7734a3ab8dfa",
@@ -342,30 +342,6 @@
         "שרשראות"
       ],
       "updated_at": "2026-03-19T19:27:43.932Z"
-    },
-    {
-      "id": "08cf2959-5f47-42f8-bec6-1923f7be93dd",
-      "slug": "tbat-tst-9qtyiy",
-      "name": "טבעת טסט",
-      "name_translations": {},
-      "description": "",
-      "short_description": null,
-      "sku": null,
-      "brand": null,
-      "price": 1,
-      "base_price": 1,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [
-        "https://shailiro.co.il/assets/image-product-image-1773520780286-y2mf4p.webp"
-      ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://shailiro.co.il/product/tbat-tst-9qtyiy",
-      "categories": [
-        "טבעות"
-      ],
-      "updated_at": "2026-03-14T21:17:51.372Z"
     }
   ]
 }

@@ -80,7 +80,7 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 14**
+**Total active products: 13**
 
 ### מחרוזת Lunar Mist
 https://shailiro.co.il/product/mchrvzt-lunar-mist-huzsv1
@@ -180,13 +180,6 @@ https://shailiro.co.il/product/mchrvzt-blue-laguna-zhi919
 - Category: שרשראות
 - Description: שרשרת שלוש-שורות מחרוזים בגדלים משתנים — מקטנים ועד גדולים. צבע הים התכול, נפח וקסם בכל חוט. הקיץ תמיד איתך.
 - Image: https://shailiro.co.il/assets/product-enhanced-1773776139726-yjqy3.webp
-
-### טבעת טסט
-https://shailiro.co.il/product/tbat-tst-9qtyiy
-- Price: 1.00 ILS
-- Availability: In stock
-- Category: טבעות
-- Image: https://shailiro.co.il/assets/image-product-image-1773520780286-y2mf4p.webp
 
 ---
 

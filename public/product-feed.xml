@@ -4,7 +4,7 @@
     <title>Shailiro by Tania Avigail</title>
     <link>https://shailiro.co.il</link>
     <description>Product feed for Shailiro by Tania Avigail</description>
-    <lastBuildDate>Sat, 09 May 2026 12:06:20 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 12:34:31 GMT</lastBuildDate>
     <item>
       <g:id>c6f1f950-2703-48e6-bd74-7734a3ab8dfa</g:id>
       <g:title>מחרוזת Lunar Mist</g:title>
@@ -187,19 +187,6 @@
       <g:brand>Shailiro by Tania Avigail</g:brand>
       <g:identifier_exists>no</g:identifier_exists>
       <g:product_type>שרשראות</g:product_type>
-    </item>
-    <item>
-      <g:id>08cf2959-5f47-42f8-bec6-1923f7be93dd</g:id>
-      <g:title>טבעת טסט</g:title>
-      <g:description>טבעת טסט</g:description>
-      <g:link>https://shailiro.co.il/product/tbat-tst-9qtyiy</g:link>
-      <g:image_link>https://shailiro.co.il/assets/image-product-image-1773520780286-y2mf4p.webp</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>1.00 ILS</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>Shailiro by Tania Avigail</g:brand>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:product_type>טבעות</g:product_type>
     </item>
   </channel>
 </rss>

@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-09T13:03:08.354Z",
+  "generated_at": "2026-05-09T13:04:00.160Z",
   "base_url": "https://shailiro.co.il",
   "currency": "ILS",
   "count": 13,
@@ -239,7 +239,7 @@
     },
     {
       "id": "c47a9e8a-6a6b-418a-859a-f9cd7aa41c6b",
-      "slug": "agyl-compass-0ydynu",
+      "slug": "agyl-compass-awn0ls",
       "name": "עגיל Compass",
       "name_translations": {},
       "description": "",
@@ -251,17 +251,17 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://shailiro.co.il/assets/product-autofit-1774383491753-acixfl.webp",
-        "https://shailiro.co.il/assets/product-autofit-1774383499753-nglgqm.webp"
+        "https://shailiro.co.il/assets/product-1778331799652-qqgla7.webp",
+        "https://shailiro.co.il/assets/product-1778331786663-xxfybh.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://shailiro.co.il/product/agyl-compass-0ydynu",
+      "url": "https://shailiro.co.il/product/agyl-compass-awn0ls",
       "categories": [
         "עגילים",
         "בייסיק אל זמני "
       ],
-      "updated_at": "2026-03-24T20:18:30.151Z"
+      "updated_at": "2026-05-09T13:03:29.401Z"
     },
     {
       "id": "c6296826-4c49-4288-bd7b-dad10b6f4c04",

@@ -1,4 +1,6 @@
-# Business — Generative Engine Optimization Map
+# Shailiro by Tania Avigail — Generative Engine Optimization Map
+
+> A handmade jewelry business specializing in artisanal, handcrafted pieces. The brand emphasizes the personal touch and uniqueness of handmade craftsmanship, offering custom jewelry items that reflect individual artistry and attention to detail.
 
 ---
 
@@ -76,12 +78,137 @@ Information about WCAG compliance and accessibility features.
 
 ---
 
-# Business Context (for LLM understanding)
+## Products
 
-## About Business
+**Total active products: 14**
+
+### מחרוזת Lunar Mist
+https://shailiro.co.il/product/mchrvzt-lunar-mist-huzsv1
+- Price: 350.00 ILS
+- Availability: In stock
+- Description: מחרוזת פנינים בגוון אפור-כסוף עם תליון פנינת בארוק. ברק עדין ואלמנטים כסף משובצים זרקונים יוצרים אווירה של בוקר ערפילי על פני המים.
+- Image: https://shailiro.co.il/assets/product-1776001268644-jdfkkr.webp
+
+### צ׳וקר Basic
+https://shailiro.co.il/product/tsvkr-basic-9h3fjj
+- Price: 120.00 ILS
+- Availability: In stock
+- Image: https://shailiro.co.il/assets/product-enhanced-1773869349745-7on8g.webp
+
+###  עגיל Bold Drop Small
+https://shailiro.co.il/product/agyl-bold-drop-small-qgz5oi
+- Price: 89.00 ILS
+- Availability: In stock
+- Category: עגילים
+- Description: פה יהיה תיאור קצר
+- Image: https://shailiro.co.il/assets/product-1774811603978-6qtgo6.webp
+
+### מחרוזת Green Laguna
+https://shailiro.co.il/product/mchrvzt-green-laguna-a970ri
+- Price: 320.00 ILS
+- Availability: In stock
+- Category: שרשראות
+- Image: https://shailiro.co.il/assets/product-enhanced-1773776163083-95sozej.webp
+
+### עגיל Stardust
+https://shailiro.co.il/product/agyl-stardust-mq61j9
+- Price: 149.00 ILS
+- Availability: In stock
+- Category: עגילים
+- Description: עגילי מפל זהב עם פיזור כוכבים על שרשראות דקות. הם נעים איתך ויוצרים אפקט של כוכבים נופלים. מתאים לערב מיוחד או ליומיום עם ג׳ינס וטישרט.
+- Image: https://shailiro.co.il/assets/product-autofit-1774383091093-z5dauv.webp
+
+### עגיל Stella
+https://shailiro.co.il/product/agyl-stella-d9iy88
+- Price: 149.00 ILS
+- Availability: In stock
+- Category: עגילים
+- Description: שילוב אלגנטי של פרח כסוף משובץ בזירקונים עם פנינת כותנה גדולה. כל פרט מעוצב בקפידה לשלמות — ממשחק האור באבנים ועד הברק הרך של הפנינה. מושלמים לאירוע מיוחד ולכלות
+- Image: https://shailiro.co.il/assets/product-autofit-1774383831930-ln7jka.webp
+
+### עגיל Wave Hoops
+https://shailiro.co.il/product/agyl-wave-hoops-1mvzz3
+- Price: 79.00 ILS
+- Availability: In stock
+- Category: עגילים
+- Description: חישוקי בגודל מדיום עם טקסטורת מתכת מקומטת . למי שאוהבת סטייל בלי רעש מיותר
+- Image: https://shailiro.co.il/assets/product-enhanced-1773827104983-uu7z8w.webp
+
+### עגיל Luna Coin
+https://shailiro.co.il/product/agyl-luna-coin-ldafxd
+- Price: 119.00 ILS
+- Availability: In stock
+- Category: עגילים
+- Description: חישוקי האגי זהב עם תליון פנינת בארוק בצורת מטבע. עדינות ואופי בתכשיט אחד.
+- Image: https://shailiro.co.il/assets/product-autofit-1775739316985-1oiyr4.webp
+
+### עגיל Pearl Drop
+https://shailiro.co.il/product/agyl-pearl-drop-igyoxd
+- Price: 109.00 ILS
+- Availability: In stock
+- Category: עגילים
+- Description: חישוקי האגי זהב מינימליסטיים עם טיפת פנינת בארוק לבנה. פשטות שמדברת חזק יותר ממילים
+- Image: https://shailiro.co.il/assets/product-autofit-1774383680455-j7t8x.webp
+
+### עגיל Compass
+https://shailiro.co.il/product/agyl-compass-0ydynu
+- Price: 79.00 ILS
+- Availability: In stock
+- Category: עגילים
+- Description: חישוקי האגי זהב עם תליון מטבע — כוכב מצפן. למי שתמיד יודעת את הדרך שלה
+- Image: https://shailiro.co.il/assets/product-autofit-1774383491753-acixfl.webp
+
+### עגיל Bold Drop Large
+https://shailiro.co.il/product/agyl-bold-drop-large-b07xb6
+- Price: 99.00 ILS
+- Availability: In stock
+- Category: עגילים
+- Image: https://shailiro.co.il/assets/product-1773771259764-rcv4lq.webp
+
+### עגיל Corona
+https://shailiro.co.il/product/agyl-corona-opub2m
+- Price: 79.00 ILS
+- Availability: In stock
+- Category: עגילים
+- Description: עגילי צמוד זהב בצורת כתר עם זירקונים בחיתוך מרקיזה. .קטנים אבל בולטים — לאחת שיודעת
+- Image: https://shailiro.co.il/assets/product-autofit-1774383573315-se8r0v.webp
+
+### מחרוזת Blue Laguna
+https://shailiro.co.il/product/mchrvzt-blue-laguna-zhi919
+- Price: 320.00 ILS
+- Availability: In stock
+- Category: שרשראות
+- Description: שרשרת שלוש-שורות מחרוזים בגדלים משתנים — מקטנים ועד גדולים. צבע הים התכול, נפח וקסם בכל חוט. הקיץ תמיד איתך.
+- Image: https://shailiro.co.il/assets/product-enhanced-1773776139726-yjqy3.webp
+
+### טבעת טסט
+https://shailiro.co.il/product/tbat-tst-9qtyiy
+- Price: 1.00 ILS
+- Availability: In stock
+- Category: טבעות
+- Image: https://shailiro.co.il/assets/image-product-image-1773520780286-y2mf4p.webp
+
 ---
 
-# Additional Resources
+# Business Context (for LLM understanding)
 
-- **Sitemap**: https://shailiro.co.il/sitemap.xml
-- **Robots.txt**: https://shailiro.co.il/robots.txt
+## About Shailiro by Tania Avigail
+A handmade jewelry business specializing in artisanal, handcrafted pieces. The brand emphasizes the personal touch and uniqueness of handmade craftsmanship, offering custom jewelry items that reflect individual artistry and attention to detail.
+
+## Target Audience
+- מחפשי יוקרה אקולוגיים
+- קונים מתנות לאירועים מיוחדים
+- כלות המחפשות תכשיטים בעבודת יד
+
+## Industry
+תכשיטים ואופנה
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://shailiro.co.il/sitemap.xml
+- Robots: https://shailiro.co.il/robots.txt
+- Flattened page text (for LLMs): https://shailiro.co.il/llms-full.txt
+- Products (JSON): https://shailiro.co.il/products.json
+- Products (Google Merchant RSS): https://shailiro.co.il/product-feed.xml

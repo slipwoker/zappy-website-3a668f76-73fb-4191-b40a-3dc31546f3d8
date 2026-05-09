@@ -1,0 +1,371 @@
+{
+  "@context": "https://schema.org",
+  "generated_at": "2026-05-09T12:05:59.929Z",
+  "base_url": "https://shailiro.co.il",
+  "currency": "ILS",
+  "count": 14,
+  "products": [
+    {
+      "id": "c6f1f950-2703-48e6-bd74-7734a3ab8dfa",
+      "slug": "mchrvzt-lunar-mist-huzsv1",
+      "name": "מחרוזת Lunar Mist",
+      "name_translations": {},
+      "description": "",
+      "short_description": "מחרוזת פנינים בגוון אפור-כסוף עם תליון פנינת בארוק. ברק עדין ואלמנטים כסף משובצים זרקונים יוצרים אווירה של בוקר ערפילי על פני המים.",
+      "sku": null,
+      "brand": null,
+      "price": 350,
+      "base_price": 350,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://shailiro.co.il/assets/product-1776001268644-jdfkkr.webp",
+        "https://shailiro.co.il/assets/product-1776001370119-zjvsm9.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://shailiro.co.il/product/mchrvzt-lunar-mist-huzsv1",
+      "categories": [],
+      "updated_at": "2026-04-12T13:43:42.106Z"
+    },
+    {
+      "id": "d6561dd2-5630-45dd-8a93-d4733bcfb0d6",
+      "slug": "tsvkr-basic-9h3fjj",
+      "name": "צ׳וקר Basic",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 120,
+      "base_price": 120,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://shailiro.co.il/assets/product-enhanced-1773869349745-7on8g.webp",
+        "https://shailiro.co.il/assets/product-enhanced-1773869372942-93qp2.webp",
+        "https://shailiro.co.il/assets/product-enhanced-1773869396011-d43dk.webp",
+        "https://shailiro.co.il/assets/product-enhanced-1773869418764-8pq139.webp",
+        "https://shailiro.co.il/assets/product-enhanced-1773869442919-a9znaubt.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://shailiro.co.il/product/tsvkr-basic-9h3fjj",
+      "categories": [],
+      "updated_at": "2026-03-18T21:33:41.625Z"
+    },
+    {
+      "id": "6a35db0a-91b0-489b-bcae-b93866ef9928",
+      "slug": "agyl-bold-drop-small-qgz5oi",
+      "name": " עגיל Bold Drop Small",
+      "name_translations": {},
+      "description": "<p>פה יהיה תיאור ארוך יותר</p>",
+      "short_description": "פה יהיה תיאור קצר",
+      "sku": null,
+      "brand": null,
+      "price": 89,
+      "base_price": 89,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://shailiro.co.il/assets/product-1774811603978-6qtgo6.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://shailiro.co.il/product/agyl-bold-drop-small-qgz5oi",
+      "categories": [
+        "עגילים",
+        "בייסיק אל זמני ",
+        "לאירוע מיוחד"
+      ],
+      "updated_at": "2026-03-29T19:15:05.430Z"
+    },
+    {
+      "id": "a9718099-695a-4d07-b905-dcbd8f205b69",
+      "slug": "mchrvzt-green-laguna-a970ri",
+      "name": "מחרוזת Green Laguna",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 320,
+      "base_price": 320,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://shailiro.co.il/assets/product-enhanced-1773776163083-95sozej.webp",
+        "https://shailiro.co.il/assets/product-enhanced-1773776074884-sfpi7m.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://shailiro.co.il/product/mchrvzt-green-laguna-a970ri",
+      "categories": [
+        "שרשראות"
+      ],
+      "updated_at": "2026-03-19T19:27:59.368Z"
+    },
+    {
+      "id": "9c3e3e45-3d42-4e89-a70c-18c2b8340667",
+      "slug": "agyl-stardust-mq61j9",
+      "name": "עגיל Stardust",
+      "name_translations": {},
+      "description": "<p>חומרים:</p><p>סגסוגת פליז עם ציפוי זהב 18K.</p><p>אורך העגיל 11 ס\"מ</p>",
+      "short_description": "עגילי מפל זהב עם פיזור כוכבים על שרשראות דקות. הם נעים איתך ויוצרים אפקט של כוכבים נופלים. \nמתאים לערב מיוחד או ליומיום עם ג׳ינס וטישרט.",
+      "sku": null,
+      "brand": null,
+      "price": 149,
+      "base_price": 149,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://shailiro.co.il/assets/product-autofit-1774383091093-z5dauv.webp",
+        "https://shailiro.co.il/assets/product-1773771833634-58fvys.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://shailiro.co.il/product/agyl-stardust-mq61j9",
+      "categories": [
+        "עגילים",
+        "לאירוע מיוחד"
+      ],
+      "updated_at": "2026-03-24T20:13:41.848Z"
+    },
+    {
+      "id": "5531ea5a-c0a8-4492-ad86-8434401623cf",
+      "slug": "agyl-stella-d9iy88",
+      "name": "עגיל Stella",
+      "name_translations": {},
+      "description": "",
+      "short_description": "שילוב אלגנטי של פרח כסוף משובץ בזירקונים עם פנינת כותנה גדולה.\nכל פרט מעוצב בקפידה לשלמות — ממשחק האור באבנים ועד הברק הרך של הפנינה.\nמושלמים לאירוע מיוחד ולכלות",
+      "sku": null,
+      "brand": null,
+      "price": 149,
+      "base_price": 149,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://shailiro.co.il/assets/product-autofit-1774383831930-ln7jka.webp",
+        "https://shailiro.co.il/assets/product-1773771748352-ny6ef.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://shailiro.co.il/product/agyl-stella-d9iy88",
+      "categories": [
+        "עגילים",
+        "לאירוע מיוחד"
+      ],
+      "updated_at": "2026-03-24T20:24:01.914Z"
+    },
+    {
+      "id": "4221f2c2-fb33-4a57-9f09-4159dee9c433",
+      "slug": "agyl-wave-hoops-1mvzz3",
+      "name": "עגיל Wave Hoops",
+      "name_translations": {},
+      "description": "",
+      "short_description": "חישוקי בגודל מדיום עם טקסטורת מתכת מקומטת . למי שאוהבת סטייל בלי רעש מיותר",
+      "sku": null,
+      "brand": null,
+      "price": 79,
+      "base_price": 79,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://shailiro.co.il/assets/product-enhanced-1773827104983-uu7z8w.webp",
+        "https://shailiro.co.il/assets/product-1773771692265-aajecs.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://shailiro.co.il/product/agyl-wave-hoops-1mvzz3",
+      "categories": [
+        "עגילים",
+        "בייסיק אל זמני "
+      ],
+      "updated_at": "2026-03-18T09:45:10.859Z"
+    },
+    {
+      "id": "14c7db9b-717b-4f08-a6da-2e8903674064",
+      "slug": "agyl-luna-coin-ldafxd",
+      "name": "עגיל Luna Coin",
+      "name_translations": {},
+      "description": "",
+      "short_description": "חישוקי האגי זהב עם תליון פנינת בארוק בצורת מטבע. עדינות ואופי בתכשיט אחד.",
+      "sku": null,
+      "brand": null,
+      "price": 119,
+      "base_price": 119,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://shailiro.co.il/assets/product-autofit-1775739316985-1oiyr4.webp",
+        "https://shailiro.co.il/assets/product-1773771537785-azfq6.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://shailiro.co.il/product/agyl-luna-coin-ldafxd",
+      "categories": [
+        "עגילים",
+        "בייסיק אל זמני ",
+        "לאירוע מיוחד"
+      ],
+      "updated_at": "2026-04-09T12:55:43.571Z"
+    },
+    {
+      "id": "82ae3f65-491e-46ba-a971-4eb4a5bd298c",
+      "slug": "agyl-pearl-drop-igyoxd",
+      "name": "עגיל Pearl Drop",
+      "name_translations": {},
+      "description": "",
+      "short_description": "חישוקי האגי זהב מינימליסטיים עם טיפת פנינת בארוק לבנה. פשטות שמדברת חזק יותר ממילים",
+      "sku": null,
+      "brand": null,
+      "price": 109,
+      "base_price": 109,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://shailiro.co.il/assets/product-autofit-1774383680455-j7t8x.webp",
+        "https://shailiro.co.il/assets/product-autofit-1774383687608-mii3v.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://shailiro.co.il/product/agyl-pearl-drop-igyoxd",
+      "categories": [
+        "עגילים",
+        "בייסיק אל זמני ",
+        "לאירוע מיוחד"
+      ],
+      "updated_at": "2026-03-24T20:21:33.283Z"
+    },
+    {
+      "id": "c47a9e8a-6a6b-418a-859a-f9cd7aa41c6b",
+      "slug": "agyl-compass-0ydynu",
+      "name": "עגיל Compass",
+      "name_translations": {},
+      "description": "",
+      "short_description": "חישוקי האגי זהב עם תליון מטבע — כוכב מצפן. למי שתמיד יודעת את הדרך שלה",
+      "sku": null,
+      "brand": null,
+      "price": 79,
+      "base_price": 79,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://shailiro.co.il/assets/product-autofit-1774383491753-acixfl.webp",
+        "https://shailiro.co.il/assets/product-autofit-1774383499753-nglgqm.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://shailiro.co.il/product/agyl-compass-0ydynu",
+      "categories": [
+        "עגילים",
+        "בייסיק אל זמני "
+      ],
+      "updated_at": "2026-03-24T20:18:30.151Z"
+    },
+    {
+      "id": "c6296826-4c49-4288-bd7b-dad10b6f4c04",
+      "slug": "agyl-bold-drop-large-b07xb6",
+      "name": "עגיל Bold Drop Large",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 99,
+      "base_price": 99,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://shailiro.co.il/assets/product-1773771259764-rcv4lq.webp",
+        "https://shailiro.co.il/assets/product-autofit-1774383536532-su4mb.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://shailiro.co.il/product/agyl-bold-drop-large-b07xb6",
+      "categories": [
+        "עגילים",
+        "בייסיק אל זמני ",
+        "לאירוע מיוחד"
+      ],
+      "updated_at": "2026-03-24T20:19:15.189Z"
+    },
+    {
+      "id": "e6f34cce-d738-4240-acdd-86074533e94c",
+      "slug": "agyl-corona-opub2m",
+      "name": "עגיל Corona",
+      "name_translations": {},
+      "description": "<p><br></p>",
+      "short_description": "עגילי צמוד זהב בצורת כתר עם זירקונים בחיתוך מרקיזה.  .קטנים אבל בולטים — לאחת שיודעת ",
+      "sku": null,
+      "brand": null,
+      "price": 79,
+      "base_price": 79,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://shailiro.co.il/assets/product-autofit-1774383573315-se8r0v.webp",
+        "https://shailiro.co.il/assets/product-autofit-1774383591617-5ez1g.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://shailiro.co.il/product/agyl-corona-opub2m",
+      "categories": [
+        "עגילים",
+        "בייסיק אל זמני ",
+        "לאירוע מיוחד"
+      ],
+      "updated_at": "2026-03-24T20:20:05.222Z"
+    },
+    {
+      "id": "b2a664ed-25c1-473a-a2c0-b9a00c28cb81",
+      "slug": "mchrvzt-blue-laguna-zhi919",
+      "name": "מחרוזת Blue Laguna",
+      "name_translations": {},
+      "description": "",
+      "short_description": "שרשרת שלוש-שורות מחרוזים  בגדלים משתנים — מקטנים ועד גדולים. צבע הים התכול, נפח וקסם בכל חוט.  הקיץ תמיד איתך.",
+      "sku": null,
+      "brand": null,
+      "price": 320,
+      "base_price": 320,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://shailiro.co.il/assets/product-enhanced-1773776139726-yjqy3.webp",
+        "https://shailiro.co.il/assets/product-enhanced-1773776308260-9yw6zh.webp",
+        "https://shailiro.co.il/assets/product-enhanced-1773776163083-95sozej.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://shailiro.co.il/product/mchrvzt-blue-laguna-zhi919",
+      "categories": [
+        "שרשראות"
+      ],
+      "updated_at": "2026-03-19T19:27:43.932Z"
+    },
+    {
+      "id": "08cf2959-5f47-42f8-bec6-1923f7be93dd",
+      "slug": "tbat-tst-9qtyiy",
+      "name": "טבעת טסט",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 1,
+      "base_price": 1,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://shailiro.co.il/assets/image-product-image-1773520780286-y2mf4p.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://shailiro.co.il/product/tbat-tst-9qtyiy",
+      "categories": [
+        "טבעות"
+      ],
+      "updated_at": "2026-03-14T21:17:51.372Z"
+    }
+  ]
+}

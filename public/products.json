@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-09T12:58:41.770Z",
+  "generated_at": "2026-05-09T13:00:22.729Z",
   "base_url": "https://shailiro.co.il",
   "currency": "ILS",
   "count": 13,
@@ -133,7 +133,7 @@
     },
     {
       "id": "5531ea5a-c0a8-4492-ad86-8434401623cf",
-      "slug": "agyl-stella-d9iy88",
+      "slug": "agyl-stella-qxr9q5",
       "name": "עגיל Stella",
       "name_translations": {},
       "description": "",
@@ -145,17 +145,17 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://shailiro.co.il/assets/product-autofit-1774383831930-ln7jka.webp",
-        "https://shailiro.co.il/assets/product-1773771748352-ny6ef.webp"
+        "https://shailiro.co.il/assets/product-1778331578861-elu949.webp",
+        "https://shailiro.co.il/assets/product-1778331566658-y9zb6n.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://shailiro.co.il/product/agyl-stella-d9iy88",
+      "url": "https://shailiro.co.il/product/agyl-stella-qxr9q5",
       "categories": [
         "עגילים",
         "לאירוע מיוחד"
       ],
-      "updated_at": "2026-03-24T20:24:01.914Z"
+      "updated_at": "2026-05-09T12:59:51.829Z"
     },
     {
       "id": "4221f2c2-fb33-4a57-9f09-4159dee9c433",

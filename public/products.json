@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-09T12:57:42.603Z",
+  "generated_at": "2026-05-09T12:58:41.770Z",
   "base_url": "https://shailiro.co.il",
   "currency": "ILS",
   "count": 13,
@@ -185,7 +185,7 @@
     },
     {
       "id": "14c7db9b-717b-4f08-a6da-2e8903674064",
-      "slug": "agyl-luna-coin-ldafxd",
+      "slug": "agyl-luna-coin-rezde8",
       "name": "עגיל Luna Coin",
       "name_translations": {},
       "description": "",
@@ -198,17 +198,17 @@
       "currency": "ILS",
       "images": [
         "https://shailiro.co.il/assets/product-autofit-1775739316985-1oiyr4.webp",
-        "https://shailiro.co.il/assets/product-1773771537785-azfq6.webp"
+        "https://shailiro.co.il/assets/product-1778331481172-5d8dhh.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://shailiro.co.il/product/agyl-luna-coin-ldafxd",
+      "url": "https://shailiro.co.il/product/agyl-luna-coin-rezde8",
       "categories": [
         "עגילים",
         "בייסיק אל זמני ",
         "לאירוע מיוחד"
       ],
-      "updated_at": "2026-04-09T12:55:43.571Z"
+      "updated_at": "2026-05-09T12:58:10.961Z"
     },
     {
       "id": "82ae3f65-491e-46ba-a971-4eb4a5bd298c",

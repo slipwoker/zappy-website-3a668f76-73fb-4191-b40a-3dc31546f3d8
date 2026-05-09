@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-09T12:56:51.207Z",
+  "generated_at": "2026-05-09T12:57:42.603Z",
   "base_url": "https://shailiro.co.il",
   "currency": "ILS",
   "count": 13,
@@ -107,7 +107,7 @@
     },
     {
       "id": "9c3e3e45-3d42-4e89-a70c-18c2b8340667",
-      "slug": "agyl-stardust-mq61j9",
+      "slug": "agyl-stardust-jy0qsp",
       "name": "עגיל Stardust",
       "name_translations": {},
       "description": "<p>חומרים:</p><p>סגסוגת פליז עם ציפוי זהב 18K.</p><p>אורך העגיל 11 ס\"מ</p>",
@@ -119,17 +119,17 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://shailiro.co.il/assets/product-autofit-1774383091093-z5dauv.webp",
-        "https://shailiro.co.il/assets/product-1773771833634-58fvys.webp"
+        "https://shailiro.co.il/assets/product-1778331395157-pggfsq.webp",
+        "https://shailiro.co.il/assets/product-1778331423453-u6okp.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://shailiro.co.il/product/agyl-stardust-mq61j9",
+      "url": "https://shailiro.co.il/product/agyl-stardust-jy0qsp",
       "categories": [
         "עגילים",
         "לאירוע מיוחד"
       ],
-      "updated_at": "2026-03-24T20:13:41.848Z"
+      "updated_at": "2026-05-09T12:57:11.787Z"
     },
     {
       "id": "5531ea5a-c0a8-4492-ad86-8434401623cf",

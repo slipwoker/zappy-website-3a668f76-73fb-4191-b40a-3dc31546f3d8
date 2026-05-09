@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-09T13:04:00.160Z",
+  "generated_at": "2026-05-09T13:05:33.415Z",
   "base_url": "https://shailiro.co.il",
   "currency": "ILS",
   "count": 13,
@@ -319,29 +319,29 @@
     },
     {
       "id": "b2a664ed-25c1-473a-a2c0-b9a00c28cb81",
-      "slug": "mchrvzt-blue-laguna-zhi919",
+      "slug": "mchrvzt-blue-laguna-a2w48w",
       "name": "מחרוזת Blue Laguna",
       "name_translations": {},
       "description": "",
       "short_description": "שרשרת שלוש-שורות מחרוזים  בגדלים משתנים — מקטנים ועד גדולים. צבע הים התכול, נפח וקסם בכל חוט.  הקיץ תמיד איתך.",
       "sku": null,
       "brand": null,
-      "price": 320,
-      "base_price": 320,
+      "price": 319,
+      "base_price": 319,
       "sale_price": null,
       "currency": "ILS",
       "images": [
         "https://shailiro.co.il/assets/product-enhanced-1773776139726-yjqy3.webp",
-        "https://shailiro.co.il/assets/product-enhanced-1773776308260-9yw6zh.webp",
+        "https://shailiro.co.il/assets/product-enhanced-1778331894822-mkrm9.webp",
         "https://shailiro.co.il/assets/product-enhanced-1773776163083-95sozej.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://shailiro.co.il/product/mchrvzt-blue-laguna-zhi919",
+      "url": "https://shailiro.co.il/product/mchrvzt-blue-laguna-a2w48w",
       "categories": [
         "שרשראות"
       ],
-      "updated_at": "2026-03-19T19:27:43.932Z"
+      "updated_at": "2026-05-09T13:05:31.791Z"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-09T12:34:31.728Z",
+  "generated_at": "2026-05-09T12:56:22.897Z",
   "base_url": "https://shailiro.co.il",
   "currency": "ILS",
   "count": 13,
@@ -265,7 +265,7 @@
     },
     {
       "id": "c6296826-4c49-4288-bd7b-dad10b6f4c04",
-      "slug": "agyl-bold-drop-large-b07xb6",
+      "slug": "agyl-bold-drop-large-7g15k8",
       "name": "עגיל Bold Drop Large",
       "name_translations": {},
       "description": "",
@@ -277,18 +277,18 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://shailiro.co.il/assets/product-1773771259764-rcv4lq.webp",
-        "https://shailiro.co.il/assets/product-autofit-1774383536532-su4mb.webp"
+        "https://shailiro.co.il/assets/product-1778331339514-gtah48.webp",
+        "https://shailiro.co.il/assets/product-1778331366955-2efpg.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://shailiro.co.il/product/agyl-bold-drop-large-b07xb6",
+      "url": "https://shailiro.co.il/product/agyl-bold-drop-large-7g15k8",
       "categories": [
         "עגילים",
         "בייסיק אל זמני ",
         "לאירוע מיוחד"
       ],
-      "updated_at": "2026-03-24T20:19:15.189Z"
+      "updated_at": "2026-05-09T12:56:20.457Z"
     },
     {
       "id": "e6f34cce-d738-4240-acdd-86074533e94c",

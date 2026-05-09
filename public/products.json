@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-09T13:06:02.592Z",
+  "generated_at": "2026-05-09T13:06:50.333Z",
   "base_url": "https://shailiro.co.il",
   "currency": "ILS",
   "count": 13,
@@ -82,28 +82,28 @@
     },
     {
       "id": "a9718099-695a-4d07-b905-dcbd8f205b69",
-      "slug": "mchrvzt-green-laguna-a970ri",
+      "slug": "mchrvzt-green-laguna-t5telz",
       "name": "מחרוזת Green Laguna",
       "name_translations": {},
       "description": "",
       "short_description": null,
       "sku": null,
       "brand": null,
-      "price": 320,
-      "base_price": 320,
+      "price": 319,
+      "base_price": 319,
       "sale_price": null,
       "currency": "ILS",
       "images": [
         "https://shailiro.co.il/assets/product-enhanced-1773776163083-95sozej.webp",
-        "https://shailiro.co.il/assets/product-enhanced-1773776074884-sfpi7m.webp"
+        "https://shailiro.co.il/assets/product-enhanced-1778331968010-xf055e.webp"
       ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://shailiro.co.il/product/mchrvzt-green-laguna-a970ri",
+      "in_stock": false,
+      "stock_status": "out_of_stock",
+      "url": "https://shailiro.co.il/product/mchrvzt-green-laguna-t5telz",
       "categories": [
         "שרשראות"
       ],
-      "updated_at": "2026-03-19T19:27:59.368Z"
+      "updated_at": "2026-05-09T13:06:19.370Z"
     },
     {
       "id": "9c3e3e45-3d42-4e89-a70c-18c2b8340667",

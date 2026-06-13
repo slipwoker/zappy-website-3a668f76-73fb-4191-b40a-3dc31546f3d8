@@ -95,6 +95,9 @@ Description: גלי תכשיטים בעבודת יד יוקרתיים שנוצר
 
 
 
+
+
+
 - הזמנות מותאמות
 - אודות
 - צור קשר
@@ -271,7 +274,7 @@ Description: גלי תכשיטים בעבודת יד יוקרתיים שנוצר
 
 ### יצירת קשר
 
-- [email protected]
+- tania.avigail.collection@gmail.com
 - 054-7803787
 - חרמון 28, כרמיאל, ישראל
 
@@ -440,6 +443,9 @@ Description: המוצרים שלנו - Shailiro by Tania Avigail
 
 
 
+
+
+
 - הזמנות מותאמות
 - אודות
 - צור קשר
@@ -531,7 +537,7 @@ Description: המוצרים שלנו - Shailiro by Tania Avigail
 
 ### יצירת קשר
 
-- [email protected]
+- tania.avigail.collection@gmail.com
 - 054-7803787
 - חרמון 28, כרמיאל, ישראל
 
@@ -590,6 +596,7 @@ Description: המוצרים שלנו - Shailiro by Tania Avigail
 ₪0
 
 המשך לתשלום
+
 
 
 
@@ -703,6 +710,9 @@ Description: הזמיני תכשיטים בעבודת יד לכלות ולאיר
 
 
 - מוצרים מוצרים
+
+
+
 
 
 
@@ -967,7 +977,7 @@ Description: הזמיני תכשיטים בעבודת יד לכלות ולאיר
 
 ### יצירת קשר
 
-- [email protected]
+- tania.avigail.collection@gmail.com
 - 054-7803787
 - חרמון 28, כרמיאל, ישראל
 
@@ -1126,6 +1136,9 @@ Description: טניה אביגיל יוצרת תכשיטים בעבודת יד �
 
 
 - מוצרים מוצרים
+
+
+
 
 
 
@@ -1342,7 +1355,7 @@ Description: טניה אביגיל יוצרת תכשיטים בעבודת יד �
 
 ### יצירת קשר
 
-- [email protected]
+- tania.avigail.collection@gmail.com
 - 054-7803787
 - חרמון 28, כרמיאל, ישראל
 
@@ -1511,6 +1524,9 @@ Description: עגלת הקניות שלך
 
 
 
+
+
+
 - הזמנות מותאמות
 - אודות
 - צור קשר
@@ -1578,7 +1594,7 @@ Description: עגלת הקניות שלך
 
 ### יצירת קשר
 
-- [email protected]
+- tania.avigail.collection@gmail.com
 - 054-7803787
 - חרמון 28, כרמיאל, ישראל
 
@@ -1637,6 +1653,7 @@ Description: עגלת הקניות שלך
 ₪0
 
 המשך לתשלום
+
 
 
 
@@ -1756,6 +1773,9 @@ Description: תשלום
 
 
 - מוצרים מוצרים
+
+
+
 
 
 
@@ -2013,7 +2033,7 @@ Description: תשלום
 
 ### יצירת קשר
 
-- [email protected]
+- tania.avigail.collection@gmail.com
 - 054-7803787
 - חרמון 28, כרמיאל, ישראל
 
@@ -2072,6 +2092,7 @@ Description: תשלום
 ₪0
 
 המשך לתשלום
+
 
 
 
@@ -2195,6 +2216,9 @@ Description: התחברות לקוחות
 
 
 
+
+
+
 - הזמנות מותאמות
 - אודות
 - צור קשר
@@ -2269,7 +2293,7 @@ Description: התחברות לקוחות
 
 ### יצירת קשר
 
-- [email protected]
+- tania.avigail.collection@gmail.com
 - 054-7803787
 - חרמון 28, כרמיאל, ישראל
 
@@ -2328,6 +2352,7 @@ Description: התחברות לקוחות
 ₪0
 
 המשך לתשלום
+
 
 
 
@@ -2447,6 +2472,9 @@ Description: החשבון שלי
 
 
 - מוצרים מוצרים
+
+
+
 
 
 
@@ -2680,7 +2708,7 @@ Description: החשבון שלי
 
 ### יצירת קשר
 
-- [email protected]
+- tania.avigail.collection@gmail.com
 - 054-7803787
 - חרמון 28, כרמיאל, ישראל
 
@@ -2739,6 +2767,7 @@ Description: החשבון שלי
 ₪0
 
 המשך לתשלום
+
 
 
 
@@ -2862,6 +2891,9 @@ Description: תודה על ההזמנה
 
 
 
+
+
+
 - הזמנות מותאמות
 - אודות
 - צור קשר
@@ -2953,7 +2985,7 @@ Description: תודה על ההזמנה
 
 ### יצירת קשר
 
-- [email protected]
+- tania.avigail.collection@gmail.com
 - 054-7803787
 - חרמון 28, כרמיאל, ישראל
 
@@ -3012,6 +3044,7 @@ Description: תודה על ההזמנה
 ₪0
 
 המשך לתשלום
+
 
 
 
@@ -3135,6 +3168,9 @@ Description: מדיניות החזרת מוצרים - זכויותיכם להח�
 
 
 
+
+
+
 - הזמנות מותאמות
 - אודות
 - צור קשר
@@ -3169,7 +3205,7 @@ Description: מדיניות החזרת מוצרים - זכויותיכם להח�
 # מדיניות החזרת מוצרים
 
 
-עדכון אחרון: 2.6.2026
+עדכון אחרון: 13.6.2026
 
 
 
@@ -3255,7 +3291,7 @@ Shailiro by Tania Avigail מחויבת לשביעות רצון לקוחותיה.
 
 ### יצירת קשר
 
-- [email protected]
+- tania.avigail.collection@gmail.com
 - 054-7803787
 - חרמון 28, כרמיאל, ישראל
 
@@ -3314,6 +3350,7 @@ Shailiro by Tania Avigail מחויבת לשביעות רצון לקוחותיה.
 ₪0
 
 המשך לתשלום
+
 
 
 
@@ -3437,6 +3474,9 @@ Description: פרטי המוצר - Shailiro by Tania Avigail
 
 
 
+
+
+
 - הזמנות מותאמות
 - אודות
 - צור קשר
@@ -3506,7 +3546,7 @@ Description: פרטי המוצר - Shailiro by Tania Avigail
 
 ### יצירת קשר
 
-- [email protected]
+- tania.avigail.collection@gmail.com
 - 054-7803787
 - חרמון 28, כרמיאל, ישראל
 
@@ -3565,6 +3605,7 @@ Description: פרטי המוצר - Shailiro by Tania Avigail
 ₪0
 
 המשך לתשלום
+
 
 
 
@@ -3688,6 +3729,9 @@ Description: מוצרים - Shailiro by Tania Avigail
 
 
 
+
+
+
 - הזמנות מותאמות
 - אודות
 - צור קשר
@@ -3781,7 +3825,7 @@ Description: מוצרים - Shailiro by Tania Avigail
 
 ### יצירת קשר
 
-- [email protected]
+- tania.avigail.collection@gmail.com
 - 054-7803787
 - חרמון 28, כרמיאל, ישראל
 
@@ -3840,6 +3884,7 @@ Description: מוצרים - Shailiro by Tania Avigail
 ₪0
 
 המשך לתשלום
+
 
 
 
@@ -3937,6 +3982,9 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 
 - מוצרים מוצרים
+
+
+
 
 
 
@@ -4118,7 +4166,7 @@ Shailiro by Tania Avigail ("החברה", "אנו", "שלנו") מחויבת לה
 
 ### יצירת קשר
 
-- [email protected]
+- tania.avigail.collection@gmail.com
 - 054-7803787
 - חרמון 28, כרמיאל, ישראל
 
@@ -4254,6 +4302,9 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 
 - מוצרים מוצרים
+
+
+
 
 
 
@@ -4444,7 +4495,7 @@ Shailiro by Tania Avigail מחויבת להנגיש את השירותים לכל
 
 ### יצירת קשר
 
-- [email protected]
+- tania.avigail.collection@gmail.com
 - 054-7803787
 - חרמון 28, כרמיאל, ישראל
 
@@ -4580,6 +4631,9 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 
 - מוצרים מוצרים
+
+
+
 
 
 
@@ -4838,7 +4892,7 @@ Shailiro by Tania Avigail מספקת תכשיטים ואביזרי אופנה ד
 
 ### יצירת קשר
 
-- [email protected]
+- tania.avigail.collection@gmail.com
 - 054-7803787
 - חרמון 28, כרמיאל, ישראל
 
@@ -4990,6 +5044,9 @@ Description: מוכנה להתחיל את המסע? צרי קשר עכשיו ל�
 
 
 - מוצרים מוצרים
+
+
+
 
 
 
@@ -5173,7 +5230,7 @@ Description: מוכנה להתחיל את המסע? צרי קשר עכשיו ל�
 
 ### יצירת קשר
 
-- [email protected]
+- tania.avigail.collection@gmail.com
 - 054-7803787
 - חרמון 28, כרמיאל, ישראל
 
@@ -5348,6 +5405,9 @@ Description: Shailiro by Tania Avigail - סדנאות להכנת תכשיטים
 
 
 - מוצרים מוצרים
+
+
+
 
 
 
@@ -5697,7 +5757,7 @@ Description: Shailiro by Tania Avigail - סדנאות להכנת תכשיטים
 
 ### יצירת קשר
 
-- [email protected]
+- tania.avigail.collection@gmail.com
 - 054-7803787
 - חרמון 28, כרמיאל, ישראל
 
@@ -5867,6 +5927,9 @@ Description: Shailiro by Tania Avigail - מדיניות משלוחים
 
 
 - מוצרים מוצרים
+
+
+
 
 
 
@@ -6299,7 +6362,7 @@ Shailiro by Tania Avigail אינה נושאת באחריות לעיכובים ב
 
 ### יצירת קשר
 
-- [email protected]
+- tania.avigail.collection@gmail.com
 - 054-7803787
 - חרמון 28, כרמיאל, ישראל
 
